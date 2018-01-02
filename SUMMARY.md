@@ -1,11 +1,7 @@
 # Summary
 
 * [Note d'intention](README.md)
-* [Structure de ce document](1-structure_de_ce_document/README.md)
-  * [Concepts utilisés](1-structure_de_ce_document/1-concepts_utilises.md)
-  * [Constituants des communs](1-structure_de_ce_document/2-constituants_des_communs.md)
-  * [Gouvernance](1-structure_de_ce_document/3-gouvernance.md)
-  * [Acteurs et statuts](1-structure_de_ce_document/4-acteurs_et_statuts.md)
+* [Structure de ce document](1-structure_de_ce_document.md)
 * [Concepts utilisés](2-concepts_utilises/README.md)
   * [Commun\(s\)](2-concepts_utilises/1-communs.md)
   * [Rôle de l’action publique](2-concepts_utilises/2-role_de_laction_publique.md)
