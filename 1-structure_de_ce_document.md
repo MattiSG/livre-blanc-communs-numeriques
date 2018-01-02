@@ -24,4 +24,6 @@ Les communs n’existent que lorsqu’ils sont effectifs, et une charte théoriq
 
 Au-delà des règles théoriques de gouvernance et des rôles nécessaires à l’application du commun se pose la question concrète des acteurs qui vont endosser ces rôles. Or, certains statuts juridiques sont plus adaptés que d’autres à la prise en charge de certains rôles. Cette troisième partie suggère donc les [statuts de droit français](5-acteurs_et_statuts/README.md) qui semblent les plus adaptés pour chacune des missions explicitées dans la partie Gouvernance.
 
+C'est la partie la moins détaillée à ce jour, car les retours d'expérience sont peu nombreux et difficile à explorer en détails. Encore une fois, vos retours seront cruciaux pour compléter et améliorer ce manuel !
+
 > Par exemple, un garant d’application du commun statutairement désintéressé réduit le risque de réappropriation. Le risque augmente en effet avec l’intensité de la recherche du profit financier, puisque la mise en partage des ressources s’oppose à la privatisation des bénéfices qui peuvent en être retirés.
