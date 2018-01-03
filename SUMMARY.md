@@ -22,8 +22,6 @@
   * [Garant](5-acteurs_et_statuts/3-garant.md)
   * [Opérateur](5-acteurs_et_statuts/4-operateur.md)
 * [Références](6-references/README.md)
-  * [Bibliographie](6-references/1-bibliographie.md)
-  * [Remerciements](6-references/2-remerciements.md)
 * [Annexes](7-annexes/README.md)
   * [Métaphores](7-annexes/1-metaphores.md)
   * [Exemples](7-annexes/2-exemples.md)
