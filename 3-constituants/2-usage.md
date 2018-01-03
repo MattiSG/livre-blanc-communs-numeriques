@@ -1,4 +1,4 @@
-## Usage {#usage}
+## Usage
 
 Le service rendu par l’exécution du code doit lui aussi fournir une garantie de liberté d’usage pour rendre effectif le commun. Ce point est particulièrement important pour les services disposant d’un monopole de fait, et dont la duplication du code source ne permettrait pas la duplication du service rendu<sup><sup id="991785648511722-footnote-ref-11"><a href="#991785648511722-footnote-11">[12]</a></sup></sup>. Deux cas illustrent cette possibilité : l’usage d’une interface avec des ressources privées (API, interaction avec un back-office…), et celui des plateformes numériques. Dans ce second cas, la prééminence de la valeur des effets de réseau par rapport à la valeur algorithmique rendent extrêmement difficile la duplication du service<sup><sup id="991785648511722-footnote-ref-12"><a href="#991785648511722-footnote-12">[13]</a></sup></sup>.
 

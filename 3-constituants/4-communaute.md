@@ -1,4 +1,4 @@
-## Communauté {#communaut}
+## Communauté
 
 Les données produites dans l’interaction des usagers avec le service ne recouvrent pas l’intégralité de la valeur qui peut être extraite de la relation avec les usagers. Ces usagers peuvent en effet être mobilisés d’autres manières. On peut par exemple les solliciter pour contribuer ponctuellement aux communs numériques dont ils forment la communauté, pour les promouvoir ou encore pour procéder à un arbitrage référendaire<sup><sup id="991785648511722-footnote-ref-18"><a href="#991785648511722-footnote-18">[19]</a></sup></sup>.
 

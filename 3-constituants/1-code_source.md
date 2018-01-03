@@ -1,4 +1,4 @@
-## Code source {#code-source}
+## Code source
 
 Les services numériques sont en premier lieu des logiciels. Leur nature est donc du code informatique, même si on ne peut en aucun cas les réduire à cette essence.
 

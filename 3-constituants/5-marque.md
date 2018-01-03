@@ -1,4 +1,4 @@
-## Marque {#marque}
+## Marque
 
 Au-delà des contributeurs et de la communauté d’usagers, un troisième cercle d’interaction des communs numériques existe vis-à-vis du grand public. Ces interactions ont lieu non pas directement avec le service (sinon il s’agirait d’usagers), mais avec une marque, qui peut être constituée d’un nom, d’un logo, d’une URL, d’une charte graphique… Les marques représentent le capital réputationnel des communs numériques. Pour être compatibles avec ce statut, leur bénéfice doit donc être mis en partage et défendu sans réappropriation, comme les autres formes de capital.
 
