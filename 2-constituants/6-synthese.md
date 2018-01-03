@@ -1,4 +1,6 @@
-# Synthèse {#synth-se}
+# Synthèse
+
+Ce tableau récapitule les types de règles à appliquer sur chacun des constituants détaillés dans les chapitres précédents :
 
 | **Constituant** | **Modalités de contribution** | **Modalités d’animation** | **Commun minimal** | **Commun contributif** |
 | --- | --- | --- | --- | --- |

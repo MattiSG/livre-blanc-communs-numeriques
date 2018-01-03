@@ -11,7 +11,7 @@
   * [Données](2-constituants/3-donnees.md)
   * [Communauté](2-constituants/4-communaute.md)
   * [Marque](2-constituants/5-marque.md)
-* [Synthèse](1-concepts_utilises/4-synthese.md)
+  * [Synthèse](2-constituants/6-synthese.md)
 * [Gouvernance](3-gouvernance/README.md)
   * [Défendre les intérêts communs](3-gouvernance/1-defendre_les_interets_communs.md)
   * [Déterminer les investissements](3-gouvernance/2-determiner_les_investissements.md)
