@@ -7,6 +7,3 @@ Au-delà des règles théoriques de gouvernance et des rôles nécessaires à l�
 Par exemple, un garant d’application du commun statutairement désintéressé réduit le risque de réappropriation. Le risque augmente en effet avec l’intensité de la recherche du profit financier, puisque la mise en partage des ressources s’oppose à la privatisation des bénéfices qui peuvent en être retirés.
 
 > C'est la partie la moins détaillée à ce jour, car les retours d'expérience sont peu nombreux et difficile à explorer en détails. Encore une fois, vos retours seront cruciaux pour compléter et améliorer ce manuel !
-
-
-
