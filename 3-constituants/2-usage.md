@@ -16,6 +16,6 @@ Au-delà des garanties juridiques, des garanties techniques sont appropriées po
 
 [^13]: C’est pourquoi une migration d’un service comme Twitter vers une alternative comme Mastodon est peu probable : même si l’algorithmique permettant la distribution du réseau sur plusieurs instances est plus avancée qu’un service monolithique, la valeur du service provient avant tout de la contribution de ses utilisateurs. Le retour sur investissement pour chaque utilisateur individuel va en faveur de continuer à utiliser le service qui détient le plus d’utilisateurs, car le coût (se retrouver isolé) ne vaut pas les bénéfices (meilleures fonctionnalités).
 
-[^14]: Un
+[^14]: Un [SLA](https://fr.wikipedia.org/wiki/Service-level_agreement) peut s’exprimer en pourcentage de demandes traitées par unité de temps. On peut ainsi par exemple s’engager à une disponibilité de 99,9 % par mois, ce qui signifie que 99,9 % des demandes sont traitées sans erreur de la part du système.
 
-[^15]: Dans
+[^15]: Dans [cette vue](https://landing.google.com/sre/interview/ben-treynor.html), inspirée de la mouvance Site Reliability Engineering, au lieu d’interpréter un engagement de disponibilité de 99,9 % par mois comme un minimum acceptable qui devrait tendre vers 100 %, on considère qu’on peut déployer des améliorations qui comprennent un risque opérationnel jusqu’à ce qu’elles aient mené à des erreurs sur 0,1 % des demandes au maximum.

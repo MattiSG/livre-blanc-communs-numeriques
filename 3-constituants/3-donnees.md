@@ -18,8 +18,8 @@ La réutilisabilité de ces données est suffisante pour garantir le statut de c
 
 #### _Recommandation pour les acteurs publics : dans les paragraphes précédents de ce chapitre, utiliser une licence ODbL au lieu d’une Licence ouverte._ {#ouvrir-donnees-repartage-recommandation-public}
 
-[^16]: Par exemple, un réseau social comme diaspora* ou Facebook, ou une ressource collaborative comme wikitravel.org.
+[^16]: Par exemple, un réseau social comme diaspora* ou Facebook, ou une ressource collaborative comme [wikitravel.org](http://wikitravel.org).
 
 [^17]: Là encore, réseau social, mais aussi mise en relation comme TrustRoots ou AirBnB.
 
-[^18]: De nombreuses techniques sont applicables selon le type de données manipulées :
+[^18]: De nombreuses techniques sont applicables selon le type de données manipulées : [anonymisation](https://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2014/wp216_en.pdf), [pseudonymisation](https://www.cnil.fr/sites/default/files/typo/document/FICHE10_PackConf_LOGEMENT_SOCIAL_web.pdf), [confidentialité différentielle](https://fr.wikipedia.org/wiki/Confidentialit%C3%A9_diff%C3%A9rentielle)…
