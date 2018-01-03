@@ -4,7 +4,7 @@
 * [Structure de ce document](1-structure_de_ce_document.md)
 * [Concepts utilisés](2-concepts_utilises/README.md)
   * [Commun\(s\)](2-concepts_utilises/1-communs.md)
-  * [Rôle de l’action publique](2-concepts_utilises/2-role_de_laction_publique.md)
+  * [Action publique](2-concepts_utilises/2-role_de_laction_publique.md)
   * [Numérique](2-concepts_utilises/3-numerique.md)
   * [Synthèse](2-concepts_utilises/4-synthese.md)
 * [Constituants des communs numériques](3-constituants/README.md)
