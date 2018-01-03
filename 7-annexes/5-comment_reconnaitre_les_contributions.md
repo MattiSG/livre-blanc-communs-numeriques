@@ -2,17 +2,17 @@
 
 ### Typologie des contributeurs {#typologie-des-contributeurs}
 
-*   Contributeurs individuels.
-*   Acteurs publics.
-*   Acteurs à but non-lucratif de droit privé (associations, fondations…).
-*   Acteurs à but lucratif de droit privé (entreprises, associations à but lucratif…).
+- Contributeurs individuels.
+- Acteurs publics.
+- Acteurs à but non-lucratif de droit privé (associations, fondations…).
+- Acteurs à but lucratif de droit privé (entreprises, associations à but lucratif…).
 
 ### Typologie des contributions {#typologie-des-contributions}
 
-*   Technique : amélioration de la plateforme sans modification du contenu.
-*   Expertise : dans le cas des communs contributifs, ajout ou amélioration de contenu.
-*   Financière : don (ou subvention pour un acteur public).
-*   Réputation : promotion de l’outil, usage publicisé, présentations publiques.
+- Technique : amélioration de la plateforme sans modification du contenu.
+- Expertise : dans le cas des communs contributifs, ajout ou amélioration de contenu.
+- Financière : don (ou subvention pour un acteur public).
+- Réputation : promotion de l’outil, usage publicisé, présentations publiques.
 
 ### Typologie des rétributions {#typologie-des-r-tributions}
 

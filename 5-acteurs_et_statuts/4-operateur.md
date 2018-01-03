@@ -4,7 +4,7 @@ Un acteur qui a une capacité économique pour engager des dépenses et s’ajus
 
 Il peut par exemple prendre la forme de :
 
-*   SCIC.
-*   Association à activité économique.
-*   EPIC.
-*   [SEM](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27%C3%A9conomie_mixte), [SPL](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_publique_locale).
+- SCIC.
+- Association à activité économique.
+- EPIC.
+- [SEM](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27%C3%A9conomie_mixte), [SPL](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_publique_locale).
