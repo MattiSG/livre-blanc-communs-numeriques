@@ -2,11 +2,11 @@
 
 Les communs sont à distinguer des biens publics, tant du point de vue économique que du point de vue de la propriété. Les biens publics sont en effet le plus souvent à considérer comme le bien privé de l’administration publique[^1] \[Coriat, 2017\]. De fait, sans règles établissant une gouvernance partagée avec ses usagers, des biens ou services ne peuvent être des communs. Pour autant, dans leur mission de défense de l’intérêt général, les acteurs publics sont fondés à avoir une politique des communs lorsque ceux-ci ont une utilité publique[^2].
 
-### Contributeur {#contributeur}
+### Contribution {#contribution}
 
 En premier lieu, les acteurs publics peuvent avoir un rôle d’investisseur qui soutient la création de ces communs. Cet investissement peut être financier, mais sera encore plus avantageusement d’expertise et de mise à disposition de ressources auparavant détenues en exclusivité. Par la mise en partage de ces ressources, l’acteur public devient un membre de la communauté plus qu’un simple mécène.
 
-### Garant {#garant}
+### Garantie {#garantie}
 
 La puissance publique[^3] peut être utilisée pour garantir l’application du commun déterminé par la communauté, notamment en ce qui concerne les règles édictant l’accès et la non-réappropriation[^4] \(_reenclosure_\), et donc la préservation de leur statut.
 
