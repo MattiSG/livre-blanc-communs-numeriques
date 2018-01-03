@@ -1,14 +1,10 @@
-## Quasi-communs {#quasi-communs}
-
-Ces exemples ne sont pas totalement des communs numériques, mais ont fortement travaillé à l’ouverture et la transparence de leur gouvernance.
-
-### Docker {#docker}
+## Docker
 
 Docker est un logiciel libre de gestion de paravirtualisation qui permet d’isoler et d’allouer dynamiquement des ressources physiques. Il garantit la portabilité d’application et de leur dépendances à l’aide de containers et s’impose comme un standard de facto.
 
-Docker n’est pas un commun : la société commerciale docker inc.garde les rôles clef de la gouvernance des différents produits et services, même si elle est particulièrement ouverte et sa gouvernance transparente.et assumée, comme le rôle du Benevolent dictator for life (BDFL) assuré par le fondateur Solomon Hykes<sup><sup id="991785648511722-footnote-ref-24"><a href="#991785648511722-footnote-24">[25]</a></sup></sup>.
+Docker n’est pas un commun : la société commerciale docker inc.garde les rôles clef de la gouvernance des différents produits et services, même si elle est particulièrement ouverte et sa gouvernance transparente.et assumée, comme le rôle du Benevolent dictator for life (BDFL) assuré par le fondateur Solomon Hykes[^25].
 
-Produits et services
+### Produits et services
 
 hub.docker.com : service propriétaire de docker Inc. qui regroupe des contributions libres de la communauté github [Alternative possible : ([https://github.com/nathanleclaire/tarzan](https://github.com/nathanleclaire/tarzan)) mais qui perd l’intérêt du service centralisé]
 

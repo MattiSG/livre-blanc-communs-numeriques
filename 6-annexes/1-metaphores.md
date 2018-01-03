@@ -1,6 +1,8 @@
-## Métaphores {#m-taphores}
+## Métaphores
 
-### Potager partagé {#potager-partag}
+Ces métaphores ont pour objet d'aider à comprendre les enjeux et tensions des communs numériques à travers l'exemple de communs matériels.
+
+### Potager partagé {#potager-partage}
 
 Soit un potager partagé. L’espace est mis à disposition par la mairie à l’ensemble des résidents du quartier. L’objectif annoncé et clair est l’autosuffisance alimentaire du quartier, avec toute latitude laissée aux résidents pour gérer le potager. L’un des résidents, au lieu d’utiliser son espace pour se nourrir, utilise des engrais et vend sa récolte à d’autres résidents. Ceux-ci, n’ayant pas la main verte, lui offrent leur espace. Le jardinier obtient ainsi une superficie grandissante, et vend de plus en plus de fruits et légumes. Tant, en fait, qu’au bout de deux ans il cultive 95% de la surface du potager « partagé », et que seules trois autres résidentes ont appris à cultiver.
 
@@ -10,7 +12,7 @@ La mairie est-elle légitime à reprendre le contrôle du terrain ?
 
 Les habitants des autres quartiers qui voient ainsi leurs impôts financer un jardinier qui, certes, nourrit son quartier, sont-ils pour autant fondés à lui demander une contrepartie ?
 
-### Chemin de randonnée {#chemin-de-randonn-e}
+### Chemin de randonnée {#chemin-de-randonnee}
 
 Un chemin de randonnée balisé par la FFRandonnée sur lequel personne ne marche pendant deux ans devient inutilisable pour tout le monde. Un cafetier décide d’établir une buvette sur l’un des embranchements d’un sentier entretenu depuis 20 ans et l’autre sentier, qui mène à un lac, est progressivement déserté.
 
