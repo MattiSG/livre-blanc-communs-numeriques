@@ -10,8 +10,7 @@ Les publications suivantes sont référencées tout au long de cet ouvrage :
 - Dardot, 2017 : [Conférence Le commun et le numérique](http://www.sciencespo-aix.fr/agenda/?date=2017-05) du 31/05/2017 à Sciences Po Aix.
 - Maurel, 2016 : [Ériger le réseau des données personnelles en bien commun](https://scinfolex.com/2016/01/15/eriger-le-reseau-des-donnees-personnelles-en-bien-commun/)
 - Rogers, 1962 : [Diffusion of Innovations](https://books.google.fr/books?hl=fr&lr=&id=v1ii4QsB7jIC&oi=fnd&pg=PR15&ots=DLTtqKQq5S&sig=G_TqKjU7inkJwc3iwg_KuIJEiTU).
-- Verdier & Murciano, 2015 : [Les communs numériques : éléments d’économie politique
-](http://events.chairefdd.org/wp-content/uploads/2016/04/CAHIER_FDD_69.pdf).
+- Verdier & Murciano, 2015 : [Les communs numériques : éléments d’économie politique](http://events.chairefdd.org/wp-content/uploads/2016/04/CAHIER_FDD_69.pdf).
 
 ## Bibliographie {#bibliographie}
 
