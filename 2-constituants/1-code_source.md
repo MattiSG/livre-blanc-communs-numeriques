@@ -6,7 +6,7 @@ Les règles applicables à un code source sont formalisées par des licences, c�
 
 #### Un commun minimal inclut la mise à disposition du code source sous une licence libre[^9]. {#licence-libre}
 
-#### _Recommandation pour les acteurs publics : utiliser une licence MIT ou l’une des autres licences mentionnées à l’article [D323-2-1 du code des relations entre le public et l’administration (CRPA)](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000034504991&cidTexte=LEGITEXT000031366350&dateTexte=29991231)._ {#licence-libre-recommandation-public}
+#### _Recommandation pour les acteurs publics : utiliser une licence MIT ou l’une des autres licences mentionnées à l’article [D323-2-1 du code des relations entre le public et l’administration (CRPA)](https://is.gd/rYk7h7)._ {#licence-libre-recommandation-public}
 
 Néanmoins, les communs numériques ne peuvent être réduits à un logiciel. Comme on l’a vu, leur spécificité provient de l’existence d’une _communauté_. C’est bien cette communauté rassemblée autour du logiciel qu’il faut préserver pour éviter la réappropriation, active ou par désertion de la communauté à l’exception d’un acteur.
 
