@@ -1,4 +1,6 @@
-## Comment reconnaître les contributions {#comment-reconna-tre-les-contributions}
+## Comment reconnaître les contributions
+
+Pour pérenniser la communauté, les acteurs doivent s'y sentir bienvenus, mais aussi reconnus (voire récompensés) pour leurs contributions. Cette partie tente de décrire les types de contributeurs par statuts et le type de rétribution qui peut leur convenir.
 
 ### Typologie des contributeurs {#typologie-des-contributeurs}
 
