@@ -1,6 +1,6 @@
 ## Commun\(s\)
 
-La complexité du vocabulaire des communs est en premier lieu due à l’usage du nombre et des déterminants pour désigner des concepts fondamentalement distincts.
+La complexité du vocabulaire des communs provient en premier lieu de l’usage du nombre et des déterminants pour désigner des concepts fondamentalement distincts.
 
 On différenciera donc :
 

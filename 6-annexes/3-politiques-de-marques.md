@@ -1,5 +1,5 @@
-# 
+## Politiques de marques
 
-### Politiques de marques {#politiques-de-marques}
-
-Exemple de directives de l&#039;OSI : https://opensource.org/trademark-guidelines ou de Mozilla : https://www.mozilla.org/en-US/foundation/licensing/
+- [Mozilla](https://www.mozilla.org/en-US/foundation/licensing/).
+- [OSI](https://opensource.org/trademark-guidelines).
+- [Wikipédia](https://meta.wikimedia.org/wiki/Trademark_policy/fr#policy).

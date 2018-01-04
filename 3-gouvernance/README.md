@@ -1,6 +1,6 @@
 # Gouvernance {#gouvernance}
 
-Nous avons défini plus haut les contraintes minimales sans lesquelles des services numériques ne peuvent que difficilement prétendre au statut de communs numériques, car le risque de réappropriation serait trop significatif. Pour autant, la satisfaction de ces conditions ne saurait suffire à en garantir l’effectivité. Les modalités de mise à disposition au public ne sont en effet qu’un des aspects de ce statut. Rappelons-le, la gouvernance tant opérationnelle que stratégique des communs ne saurait être autre que démocratique[^21].
+J'ai défini plus haut les contraintes minimales sans lesquelles des services numériques ne peuvent que difficilement prétendre au statut de communs numériques, car le risque de réappropriation serait trop significatif. Pour autant, la satisfaction de ces conditions ne saurait suffire à en garantir l’effectivité. Les modalités de mise à disposition au public ne sont en effet qu’un des aspects de ce statut. Rappelons-le, la gouvernance tant opérationnelle que stratégique des communs ne saurait être autre que démocratique[^21].
 
 Par exemple, si le code source d’un service numérique est sous licence avec une clause de repartage mais qu’aucun acteur ne rappelle à l’ordre un réutilisateur en infraction, il s’agit d’une faille permettant la réappropriation.
 
