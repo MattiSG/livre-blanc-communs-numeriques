@@ -1,5 +1,14 @@
 {
   "title": "Construire des communs numériques",
   "description": "Ce livre blanc décrit comment garantir un usage libre, juste et pérenne des outils logiciels qui contribuent au bien commun",
-  "language": "fr"
+  "language": "fr",
+  "plugins": [
+    "theme-gestalt"
+  ],
+  "pluginsConfig": {
+    "theme-gestalt": {
+      "baseUrl": "http://communs.mattischneider.fr/",
+      "doNotHideChildrenChapters": true
+    }
+  }
 }
