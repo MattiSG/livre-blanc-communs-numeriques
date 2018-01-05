@@ -7,7 +7,6 @@
   ],
   "pluginsConfig": {
     "theme-gestalt": {
-      "baseUrl": "http://communs.mattischneider.fr/",
       "doNotHideChildrenChapters": true
     }
   }
