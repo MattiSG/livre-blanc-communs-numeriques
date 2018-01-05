@@ -6,6 +6,8 @@ Pour cela, il **clarifie le vocabulaire**, décrit les **contraintes minimales**
 
 Ce document décrit les grandes catégories d’engagements mutuels et de comportements nécessaires pour garantir un usage libre, juste et pérenne des services numériques qui servent l’intérêt général, en particulier lorsqu’ils sont coproduits par des acteurs publics. Au-delà de ces catégories, il propose des bonnes pratiques qui permettent la constitution de véritables _communs_ dans lesquels les usagers sont au cœur des décisions.
 
+![](/assets/logo-communs-numeriques.png)
+
 ## Public visé
 
 Le public visé est en premier lieu les « innovateurs[^1] »  \[Rogers, 1962\] qui ont l'opportunité et l'intention d'organiser des communs, afin de les aider à confirmer leurs intuitions, à communiquer avec un vocabulaire clair et référençable, et à convaincre leurs pairs. J'entends par là que, si vous avez déjà une expérience d'administration des communs, vous-même ou votre organisation aura probablement des pratiques plus spécifiques et plus adaptées à votre contexte. Les recommandations formulées ici sont des bonnes pratiques qui permettent d'éviter les écueils habituels d'une stratégie d'ouverture basée sur de bonnes intentions mais qui échoue à la mise en œuvre ; il ne s'agit pas du seul moyen de faire émerger des communs.
