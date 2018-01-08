@@ -17,7 +17,8 @@
 
 .page-inner a,
 .page-inner a:hover,
-.page-inner a:focus {
+.page-inner a:focus,
+#book-search-results .search-results .has-results .search-results-item a {
 	color: #F33;
 }
 
