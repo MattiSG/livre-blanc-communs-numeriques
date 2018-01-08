@@ -1,8 +1,3 @@
-<link rel="stylesheet" href="assets/css/page-inner.css">
-<link rel="stylesheet" href="assets/css/footnotes.css">
-<link rel="stylesheet" href="assets/css/summary.css">
-
-
 # Construire des communs numériques
 
 ## Garantir un usage libre, juste et pérenne des outils logiciels qui contribuent au bien commun
