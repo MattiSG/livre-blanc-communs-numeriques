@@ -7,5 +7,10 @@
   ],
   "styles": {
     "website": "assets/css/all.less"
+  },
+  "links": {
+    "sidebar": {
+      "Construire des communs numériques": "/"
+    }
   }
 }

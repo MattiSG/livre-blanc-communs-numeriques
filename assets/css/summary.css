@@ -14,6 +14,23 @@
 	color: #F33;
 }
 
+.book-summary .summary .custom-link { /* Add logo to main title */
+	font-weight: bold;
+	padding-left: 4em;
+	background-image: url("/gitbook/images/apple-touch-icon-precomposed-152.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 1em center;
+}
+
+.book-summary .summary .custom-link,
+.book-summary .summary .custom-link:hover,  /* Disable main title as a link (Gitbook opens it in another tab, but there is no other way to add a custom section in the summary) */
+.book-summary .summary .custom-link:focus {
+	cursor: pointer;
+	pointer-events: none;
+	text-decoration: none;
+}
+
 /* Gitbook.com advertisement */
 .gitbook-link {
 	display: none !important;
