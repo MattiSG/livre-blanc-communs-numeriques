@@ -1,0 +1,4 @@
+.book-header .btn .fa-edit,  /* use same color as links for edit button */
+.book-header .btn:hover {
+	color: #F33;
+}
