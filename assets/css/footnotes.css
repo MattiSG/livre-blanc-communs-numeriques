@@ -1,0 +1,12 @@
+[id^=reffn] {  /* footnote number */
+	font-size: 60%;
+}
+
+blockquote[id^=fn] /* footnote content */ {
+	font-size: 80%;
+	margin-top: 2em;
+	border-top: 1px solid #999;
+	padding-top: 1em;
+	border-left: none;
+	color: #333;
+}

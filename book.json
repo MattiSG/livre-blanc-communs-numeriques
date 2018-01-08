@@ -1,15 +1,5 @@
 {
   "title": "Construire des communs numériques",
   "description": "Ce livre blanc décrit comment garantir un usage libre, juste et pérenne des outils logiciels qui contribuent au bien commun",
-  "language": "fr",
-  "plugins": [
-    "theme-gestalt"
-  ],
-  "pluginsConfig": {
-    "theme-gestalt": {
-      "doNotHideChildrenChapters": true,
-      "favicon": "/assets/favicon-communs-numeriques.png",
-      "logo": "/assets/logo-communs-numeriques.png"
-    }
-  }
+  "language": "fr"
 }

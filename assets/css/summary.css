@@ -1,0 +1,20 @@
+.chapter.active {
+	position: relative;
+	font-weight: bold;
+}
+
+.chapter.active::before {
+	content: '▶';
+	position: absolute;
+	top: .65em;
+}
+
+.book-summary .summary .chapter.active > a,
+.chapter.active::before {
+	color: #F33;
+}
+
+/* Gitbook.com advertisement */
+.gitbook-link {
+	display: none !important;
+}
