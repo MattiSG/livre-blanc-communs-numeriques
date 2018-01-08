@@ -1,0 +1,27 @@
+.page-inner {
+	color: #333;
+}
+
+.page-inner h1,
+.page-inner h2,
+.page-inner h3,
+.page-inner h4 {
+	font-family: Georgia, serif;
+	font-weight: 400;
+	color: #000;
+}
+
+.book.font-size-2 .book-body .page-inner section {
+	font-size: 140%;
+}
+
+.page-inner a,
+.page-inner a:hover,
+.page-inner a:focus,
+#book-search-results .search-results .has-results .search-results-item a {
+	color: #F33;
+}
+
+.page-inner img {
+	text-align: center;
+}
