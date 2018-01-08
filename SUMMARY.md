@@ -6,7 +6,7 @@
   * [Commun\(s\)](1-concepts_utilises/1-communs.md)
   * [Action publique](1-concepts_utilises/2-role_de_laction_publique.md)
   * [Numérique](1-concepts_utilises/3-numerique.md)
-* [Constituants des communs numériques](2-constituants/README.md)
+* [Constituants](2-constituants/README.md)
   * [Code source](2-constituants/1-code_source.md)
   * [Usage](2-constituants/2-usage.md)
   * [Données](2-constituants/3-donnees.md)
