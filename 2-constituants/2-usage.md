@@ -10,7 +10,10 @@ Au-delà des garanties juridiques, des garanties techniques sont appropriées po
 
 #### Un commun contributif inclut un engagement sur un taux de disponibilité du service pour ses usagers (SLA[^14]). Pour ne pas freiner l’évolution du service, ce SLA doit évoluer dans le temps et être interprété comme un « budget de contribution[^15] ». {#budget-contribution}
 
-#### _Recommandation pour les acteurs publics : pondérer le SLA selon le nombre d’usagers, en appliquant une formule de type `(100 % - SLA) ⨉ nombre d’usagers < v`, `v` étant fixé selon l’importance du service ressentie par les usagers._ {#budget-contribution-recommandation-public}
+#### _Recommandation pour les acteurs publics : déterminer le SLA selon le nombre d’usagers et la capacité de traitement des agents humains à gérer des anomalies en s'assurant de la facilité et de la qualité de ce traitement, en appliquant une formule de type `SLA = 1 - (nombre de dossiers pouvant être traités manuellement ÷ nombre d’usagers sur la même période)`._ {#budget-contribution-recommandation-public}
+
+> Par exemple, si je dispose d'un community manager pouvant accompagner et débloquer efficacement 10 usagers par jour, avec un service utilisé par 1 000 usagers quotidiens, mon budget d'erreur est de 10 / 1 000 = 1%, ce qui fixe mon SLA à 99 %.
+
 
 [^12]: Par exemple, le moteur de Wikipédia, Mediawiki, est un logiciel libre qui peut être et qui est largement dupliqué. Pour autant, dupliquer le service rendu par Wikipédia serait extrêmement complexe, car les usagers — et donc les contributeurs — connaissent tous « Wikipédia ». Un doublon offrant exactement les mêmes fonctionnalités n’aurait aucune chance de concurrencer efficacement le service rendu.
 
