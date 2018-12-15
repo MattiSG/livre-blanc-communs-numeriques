@@ -9,4 +9,4 @@ Il s’agit donc à présent de définir les modalités d’exercice et d’équ
 Les différentes parties de cette section sont constituées des missions à remplir pour faire émerger les rôles qui doivent être tenus. La mise en œuvre concrète de ces rôles dépendra des acteurs rassemblés autour des communs à gouverner. Cette sensibilité au contexte mène à proposer dans cette section des questions sur lesquelles porter son attention plus que des recommandations abstraites.
 
 
-[^21]: Car les communs existent par leur communauté d&#039;usagers entre lesquels il n&#039;y a pas de différence de statut, et que la démocratie est le moyen le plus adapté de prendre une décision collective pour un nombre quelconque d&#039;individus égaux.
+[^21]: Car les communs existent par leur communauté d&#039;usagers entre lesquels il n&#039;y a pas de différence de statut, et que la démocratie est le moyen le plus adapté de prise de décision collective pour un nombre quelconque d&#039;individus égaux.
