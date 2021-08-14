@@ -24,12 +24,14 @@ Au-delà de l’usage, la capacité des usagers à contribuer au service doit ê
 
 Au même titre que l’usage, la « contribuabilité » des communs ne saurait être mesurée par la seule capacité technique à solliciter l’intégration de modifications. Un contributeur dont les sollicitations ne sont jamais traitées sera rapidement frustré et cessera de contribuer, et la visibilité publique de cette absence de réponse en découragera d’autres.
 
-#### Un commun contributif inclut un engagement sur le délai de traitement[^10] des sollicitations d’intégration de modifications ainsi qu’une charte de communication avec les contributeurs potentiels, afin de garantir une atmosphère ouverte et engageante. {#delai-traitement}
+#### Un commun contributif inclut un engagement sur le délai de traitement[^10] des sollicitations d’intégration de modifications ainsi qu’une charte de communication[^11] avec les contributeurs potentiels, afin de garantir une atmosphère ouverte et engageante. {#delai-traitement}
 
-#### _Recommandation pour les acteurs publics : mettre en place et publier un règlement intérieur décrivant les modalités de gestion des sollicitations d’intégration de modifications[^11]._ {#delai-traitement-recommandation-public}
+#### _Recommandation pour les acteurs publics : mettre en place et publier un règlement intérieur décrivant les modalités de gestion des sollicitations d’intégration de modifications[^12]._ {#delai-traitement-recommandation-public}
 
 [^9]: Liste exhaustive disponible sur [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
 
 [^10]: Le « traitement » ne signifie pas forcément l’intégration, mais au moins une première évaluation indiquant si la contribution est bienvenue, ou justifiant le refus de son intégration en fournissant des références permettant l’amélioration de futures contributions. Ce délai devra être le plus court possible : au-delà de quelques jours, le sentiment n’est plus celui d’une discussion, et on perd la communauté.
 
-[^11]: Voir également « comment reconnaître les contributions » en annexe.
+[^11]: De telles chartes sont généralement dénommées _code of conduct_.
+
+[^12]: Voir également « comment reconnaître les contributions » en annexe.
