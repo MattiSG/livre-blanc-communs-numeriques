@@ -1,4 +1,4 @@
-## Modalités d'évolution
+## Stratégie d'investissement
 
 Au-delà de la limitation des risques de réappropriation des moyens de produire de la valeur, se pose la question des modalités d’engagement des ressources déjà mises en commun. Ainsi, dans le cadre d’une gouvernance démocratique, la feuille de route générale du service est théoriquement basée sur les besoins exprimés de la communauté. Pour autant, des arbitrages doivent être menés sur la base des ressources disponibles. Si ces arbitrages avantagent systématiquement un certain type d’acteur, il y a réappropriation de fait des ressources mises en commun dans la mesure où, dans le temps, le service numérique apportera une valeur croissante à certains usagers aux dépens de ceux pour lesquels l’investissement n’a pas pu être effectué. Les modalités de définition des orientations stratégiques doivent donc être considérées comme un constituant du service et soumises à une gouvernance adaptée.
 
