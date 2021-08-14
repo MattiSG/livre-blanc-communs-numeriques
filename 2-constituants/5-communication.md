@@ -1,6 +1,6 @@
-## Communauté
+## Moyens de communication
 
-Les données produites dans l’interaction des usagers avec le service ne recouvrent pas l’intégralité de la valeur qui peut être extraite de la relation avec les usagers. Ces usagers peuvent en effet être mobilisés d’autres manières. On peut par exemple les solliciter pour contribuer ponctuellement aux communs numériques dont ils forment la communauté, pour les promouvoir ou encore pour procéder à un arbitrage référendaire[^19].
+Les usagers peuvent être mobilisés d’autres manières que dans leur usage habituel du service. On peut par exemple les solliciter pour contribuer ponctuellement aux communs numériques dont ils forment la communauté, pour les promouvoir ou encore pour procéder à un arbitrage référendaire[^19]. La capacité de représentation vis-à-vis des contributeurs, des usagers et du public, dans la mesure où elle détermine en grande partie la capacité de contribution et donc le type et l’intensité de la valeur capturée, doit être considérée comme un constituant des services numériques dont la réappropriation par un sous-ensemble de la communauté ou par un tiers mettrait en risque l’opération en commun[^20].
 
 #### Un commun minimal inclut la mise à disposition de tous les contributeurs des moyens de contacter la communauté, tout en garantissant un volume limité de sollicitations afin de maximiser la valeur potentielle. {#ouvrir-contact}
 
@@ -13,3 +13,5 @@ En plus des messages directs, les outils de diffusion que sont les réseaux soci
 #### _Recommandation pour les acteurs publics : rédiger une charte rédactionnelle ([exemple](https://github.com/sgmap/mes-aides-ui/wiki/Notre-ton)), utiliser un système de délégation de compte pour chaque média social utilisé par le service (TweetDeck pour Twitter, Business Manager pour Facebook…) et faire certifier le compte social par l’opérateur du réseau._ {#ouvrir-diffusion-recommandation-public}
 
 [^19]: On pensera notamment à [CarbonVote](http://v1.carbonvote.com), le vote sur le [hard fork de la DAO d’Ethereum](https://www.ethereum-france.com/le-hard-fork-the-dao-aura-bien-lieu-mode-demploi/).
+
+[^20]: Bien qu'en dehors du cas spécifique des communs numériques, l’exemple des moyens de communication conservés par l'ancien président de l'association Objectif Train de Nuit à la suite d'un renouvellement de bureau par une assemblée générale contestée mène cette structure à avoir deux organes de gouvernance concurrents, chacun prétendant être l'officiel.

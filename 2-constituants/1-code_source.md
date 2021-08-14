@@ -1,6 +1,6 @@
 ## Code source
 
-Les services numériques sont en premier lieu des logiciels. Leur nature est donc du code informatique, même si on ne peut en aucun cas les réduire à cette essence.
+Les services numériques sont en premier lieu des logiciels. Même si on ne peut par définition pas les réduire à cette essence technique, leur première nature est l’exécution d’un code informatique. Ce code, dans une forme lisible et exécutable, est donc un constituant évident à mettre en partage.
 
 Les règles applicables à un code source sont formalisées par des licences, c’est-à-dire des contrats par lequel le titulaire des droits d&#039;auteur définit les conditions dans lesquelles ce programme peut être utilisé, diffusé ou modifié. Certains types de licences, les licences libres, garantissent des droits au public : lecture, duplication, redistribution. Ces droits empêchent donc la réappropriation de l’existant.
 

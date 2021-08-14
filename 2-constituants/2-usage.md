@@ -1,6 +1,8 @@
 ## Usage
 
-Le service rendu par l’exécution du code doit lui aussi fournir une garantie de liberté d’usage pour rendre effectif le commun. Ce point est particulièrement important pour les services disposant d’un monopole de fait, et dont la duplication du code source ne permettrait pas la duplication du service rendu[^12]. Deux cas illustrent cette possibilité : l’usage d’une interface avec des ressources privées (API, interaction avec un back-office…), et celui des plateformes numériques. Dans ce second cas, la prééminence de la valeur des effets de réseau par rapport à la valeur algorithmique rendent extrêmement difficile la duplication du service[^13].
+Certains services peuvent être fournis par la simple exécution du code (par exemple, la compression d’images sur un ordinateur personnel). Dans ces cas-là, le régime d’usage dérive du régime d’accès au code source. Dans d’autres cas, la duplication du code source ne permet pas la duplication du service rendu, par exemple en cas d’interfaçage avec des ressources privées telles qu’API ou dans le cas d’un service appliquant une stratégie de plateforme (Colin & Verdier, 2013). Dans ce second cas, la prééminence de la valeur des effets de réseau par rapport à la valeur du code lui-même rendent extrêmement difficile la réplication du service[^12].
+
+Cette potentielle impossibilité _de facto_ à apporter une alternative aux modalités d’usage du service numérique quand bien même le code source serait duplicable _de jure_ montre que le droit d’usage relève des constituants à part entière de la ressource partagée et non systématiquement d’une instance de cette ressource dont chaque variante pourrait imposer son propre droit d’usage[^13].
 
 #### Un commun minimal inclut des conditions générales d’utilisation qui permettent l’usage sans conditions autres que celles strictement nécessaires à l’opération du service et à la prévention des actes visant à réduire la capacité d’autres usages. {#cgu-larges}
 
