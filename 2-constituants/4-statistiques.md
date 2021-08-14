@@ -8,7 +8,7 @@ Les statistiques de fréquentation du service, si elles sont capturées, devraie
 
 #### Un commun minimal inclut la mise à disposition des statistiques de fréquentation de chaque fonctionnalité du service sous une licence qui en permet la réutilisation. {#ouvrir-stats}
 
-#### _Recommandation pour les acteurs publics : exposer une instance publique du service de suivi Piwik (ou Xiti), [configurée](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience) en conformité avec la règlementation CNIL afin d’être exempté de consentement en anonymisant tout le suivi à la source et de récolter le maximum d’informations. Préciser que les données offertes par cette instance sont à disposition sous Licence ouverte._ {#ouvrir-stats-recommandation-public}
+#### _Recommandation pour les acteurs publics : exposer une instance publique du service de suivi Matomo (ou Xiti), [configurée](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience) en conformité avec la règlementation CNIL. Préciser que les données offertes par cette instance sont à disposition sous Licence ouverte._ {#ouvrir-stats-recommandation-public}
 
 Néanmoins, une réappropriation devient possible si un opérateur mal intentionné les met à disposition dans un format peu lisible et se conserve l’exclusivité d’une chaîne d’analyse permettant d’en extraire la valeur en les recoupant avec des bases propriétaires. Pour empêcher cela, si la base de données contient des informations détaillées, elle peut être fournie avec une clause de repartage. Ainsi, tout produit dérivé de cette base devrait lui aussi être rendu public et sera donc accessible à la communauté.
 

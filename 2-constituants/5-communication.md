@@ -10,7 +10,7 @@ En plus des messages directs, les outils de diffusion que sont les réseaux soci
 
 #### Un commun contributif inclut la mise à disposition de tous les contributeurs de moyens de contacter le public, tout en garantissant une forte pertinence des messages diffusés. {#ouvrir-diffusion}
 
-#### _Recommandation pour les acteurs publics : rédiger une charte rédactionnelle ([exemple](https://github.com/sgmap/mes-aides-ui/wiki/Notre-ton)), utiliser un système de délégation de compte pour chaque média social utilisé par le service (TweetDeck pour Twitter, Business Manager pour Facebook…) et faire certifier le compte social par l’opérateur du réseau._ {#ouvrir-diffusion-recommandation-public}
+#### _Recommandation pour les acteurs publics : rédiger une charte rédactionnelle ([exemple](https://github.com/betagouv/aides-jeunes/wiki/Notre-ton)), utiliser un système de délégation de compte pour chaque média social utilisé par le service (TweetDeck pour Twitter, Business Manager pour Facebook…) et faire certifier le compte social par l’opérateur du réseau._ {#ouvrir-diffusion-recommandation-public}
 
 [^19]: On pensera notamment à [CarbonVote](http://v1.carbonvote.com), le vote sur le [hard fork de la DAO d’Ethereum](https://www.ethereum-france.com/le-hard-fork-the-dao-aura-bien-lieu-mode-demploi/).
 
