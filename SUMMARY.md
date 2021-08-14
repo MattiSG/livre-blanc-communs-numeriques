@@ -25,6 +25,7 @@
   * [Contributeur](4-acteurs_et_statuts/2-contributeur.md)
   * [Garant](4-acteurs_et_statuts/3-garant.md)
   * [Opérateur](4-acteurs_et_statuts/4-operateur.md)
+  * [Actions par constituant](4-acteurs_et_statuts/5-actions.md)
 * [Références](5-references/README.md)
 * [Annexes](6-annexes/README.md)
   * [Métaphores](6-annexes/1-metaphores.md)
