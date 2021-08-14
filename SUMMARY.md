@@ -33,5 +33,4 @@
     * [Wikipédia](6-annexes/2-exemples/1-wikipedia.md)
     * [Node.js](6-annexes/2-exemples/2-nodejs.md)
     * [Docker](6-annexes/2-exemples/3-docker.md)
-  * [Politiques de marques](6-annexes/3-politiques-de-marques.md)
-  * [Reconnaître les contributions](6-annexes/4-reconnaitre_contributions.md)
+  * [Reconnaître les contributions](6-annexes/3-reconnaitre_contributions.md)
