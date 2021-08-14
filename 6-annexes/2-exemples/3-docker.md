@@ -27,7 +27,7 @@ La communauté gère essentiellement la documentation, les forums, et le site [g
 
 ### Analyse
 
-Pour appliquer la grille de lecture proposée dans ce document,
+Pour appliquer la grille de lecture proposée dans ce document (version 2017) :
 
 | **Constituant** | **Modalités de contribution** | **Modalités d’animation** | **Commun** |
 | --- | --- | --- | --- |
