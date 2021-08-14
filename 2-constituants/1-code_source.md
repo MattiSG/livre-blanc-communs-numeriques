@@ -28,6 +28,12 @@ Au même titre que l’usage, la « contribuabilité » des communs ne saurait �
 
 #### _Recommandation pour les acteurs publics : mettre en place et publier un règlement intérieur décrivant les modalités de gestion des sollicitations d’intégration de modifications[^12]._ {#delai-traitement-recommandation-public}
 
+Dans cet objectif également, les modalités techniques qui permettent l’opération du service, au sens de son administration système, devraient être également documentées et partagées au même titre que le code source : si une seule personne (physique ou morale) a connaissance de l’infrastructure nécessaire à l’opération du service, le risque de réappropriation est présent.
+
+####  Un commun minimal inclut un engagement à documenter les modalités d'opération technique du service. {#ops}
+
+#### _Recommandation pour les acteurs publics : documenter de manière exécurable par le biais d’un [système de gestion de configuration](https://fr.wikipedia.org/wiki/Gestion_de_configuration_logicielle), qui permet de définir l’infrastructure comme du code._ {#ops-recommandation-public}
+
 [^9]: Liste exhaustive disponible sur [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
 
 [^10]: Le « traitement » ne signifie pas forcément l’intégration, mais au moins une première évaluation indiquant si la contribution est bienvenue, ou justifiant le refus de son intégration en fournissant des références permettant l’amélioration de futures contributions. Ce délai devra être le plus court possible : au-delà de quelques jours, le sentiment n’est plus celui d’une discussion, et on perd la communauté.
