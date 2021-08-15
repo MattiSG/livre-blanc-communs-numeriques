@@ -16,19 +16,5 @@ Le public visé est en premier lieu les « innovateurs[^1] »  \[Rogers, 1962\] 
 
 Tout type de structure est concernée par les enjeux, de la grande entreprise à l'individu en passant par les associations et les administrations. Un sous-ensemble des recommandations visent spécifiquement les acteurs publics, qui sont plus contraints que d'autres et à la fois recèlent les plus grands gisements de services existants qui pourraient être mis en commun.
 
-## Format
-
-Ce livre est mis à disposition par le biais d'un [GitBook](https://www.gitbook.com), un système d'édition basé sur le logiciel de gestion de version collaboratif Git. Cela signifie que vos contributions sont bienvenues et espérées ! Si vous trouvez des fautes, des formulations trop lourdes, ambiguës, ou encore si vous avez des retours d'expérience ou des recommandations alternatives, [corrigez le texte](https://github.com/MattiSG/construire-communs-numeriques) directement \(si vous ne savez pas comment faire, passez par un commentaire via le bouton `+` qui apparaît quand vous survolez un paragraphe avec votre souris\).
-
-## Licence
-
-Ce livre vous est offert sous une licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Cela signifie que vous pouvez le lire, le distribuer, le citer, le modifier et l'adapter comme bon vous semble, y compris de manière commerciale, tant que :
-
-- Vous accompagnez l’utilisation d’un lien vers `communs.mattischneider.fr`.
-- Le contenu que vous créez sur la base de celui-ci est sous une licence similaire, c’est-à-dire qu’il n’interdit à personne de réutiliser vos améliorations.
-
-Pour plus de détails, vous pouvez lire la [licence complète](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
-
-
 [^1]: Au sens de la [courbe d'adoption des innovations](https://www.lescahiersdelinnovation.com/2016/02/la-courbe-de-diffusion-de-l-innovation-selon-roger/), c'est-à-dire les 2% qui prennent un risque à adopter un nouveau comportement au sein d'une organisation.
 

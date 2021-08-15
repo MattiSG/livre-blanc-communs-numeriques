@@ -1,8 +1,7 @@
 # Table des matières
 
-* [PDF, ePub, Mobi](autres-formats.md)
 * [English abstract](english-abstract.md)
-* [Note d'intention](README.md)
+* [Format, PDF, Licence](meta.md)
 * [Concepts utilisés](1-concepts_utilises/README.md)
   * [Commun\(s\)](1-concepts_utilises/1-communs.md)
   * [Action publique](1-concepts_utilises/2-role_de_laction_publique.md)
