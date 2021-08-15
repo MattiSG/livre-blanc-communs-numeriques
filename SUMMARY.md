@@ -31,5 +31,4 @@
     * [Wikipédia](6-annexes/2-exemples/1-wikipedia.md)
     * [Node.js](6-annexes/2-exemples/2-nodejs.md)
     * [Docker](6-annexes/2-exemples/3-docker.md)
-  * [Reconnaître les contributions](6-annexes/3-reconnaitre_contributions.md)
 * [English abstract](english-abstract.md)
