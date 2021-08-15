@@ -1,6 +1,5 @@
 # Table des matières
 
-* [English abstract](english-abstract.md)
 * [Format, PDF, Licence](meta.md)
 * [Concepts utilisés](1-concepts_utilises/README.md)
   * [Commun\(s\)](1-concepts_utilises/1-communs.md)
@@ -33,3 +32,4 @@
     * [Node.js](6-annexes/2-exemples/2-nodejs.md)
     * [Docker](6-annexes/2-exemples/3-docker.md)
   * [Reconnaître les contributions](6-annexes/3-reconnaitre_contributions.md)
+* [English abstract](english-abstract.md)
