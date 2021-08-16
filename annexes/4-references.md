@@ -18,16 +18,3 @@ Ces ouvrages sont une lecture recommandée pour aller plus loin :
 
 - Dardot &amp; Laval, 2014, [Commun](http://www.editionsladecouverte.fr/catalogue/index-commun-9782707169389.html).
 - Ostrom, 1990 : [Governing the commons](http://www.wtf.tw/ref/ostrom_1990.pdf).
-
-## Remerciements {#remerciements}
-
-Ces personnes ont permis à cet ouvrage d'être ce qu'il est aujourd'hui :
-
-- David Bruant
-- Henri Verdier
-- Laurent Bossavit
-- Laurent Joubert
-- Mauko Quiroga
-- Philippe Honigman
-- Sandra Chakroun
-- Vincent B

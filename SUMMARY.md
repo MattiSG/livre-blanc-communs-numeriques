@@ -1,6 +1,6 @@
 # Table des matières
 
-* [Format, PDF, Licence](meta.md)
+* [Note d’intention](README.md)
 * [Concepts utilisés](1-concepts_utilises/README.md)
   * [Commun\(s\)](1-concepts_utilises/1-communs.md)
   * [Action publique](1-concepts_utilises/2-role_de_laction_publique.md)
@@ -16,19 +16,23 @@
   * [Synthèse](2-constituants/8-synthese.md)
 * [Gouvernance](3-gouvernance/README.md)
   * [Défendre les intérêts communs](3-gouvernance/1-defendre_les_interets_communs.md)
-  * [Déterminer les investissements](3-gouvernance/2-determiner_les_investissements.md)
-  * [Faire évoluer le commun](3-gouvernance/3-faire_evoluer_le_commun.md)
-* [Acteurs et statuts](4-acteurs_et_statuts/README.md)
-  * [Communauté](4-acteurs_et_statuts/1-communaute.md)
-  * [Contributeur](4-acteurs_et_statuts/2-contributeur.md)
   * [Garant](4-acteurs_et_statuts/3-garant.md)
   * [Opérateur](4-acteurs_et_statuts/4-operateur.md)
   * [Actions par constituant](4-acteurs_et_statuts/5-actions.md)
-* [Références](5-references/README.md)
-* [Annexes](6-annexes/README.md)
-  * [Métaphores](6-annexes/1-metaphores.md)
-  * [Exemples](6-annexes/2-exemples/README.md)
-    * [Wikipédia](6-annexes/2-exemples/1-wikipedia.md)
-    * [Node.js](6-annexes/2-exemples/2-nodejs.md)
-    * [Docker](6-annexes/2-exemples/3-docker.md)
-* [English abstract](english-abstract.md)
+
+## Annexes
+
+* [Exemple : Wikipédia](annexes/1-wikipedia.md)
+* [Exemples contribués](annexes/2-exemples/README.md)
+  * [Docker](annexes/2-exemples/1-docker.md)
+  * [Node.js](annexes/2-exemples/2-nodejs.md)
+  * [Mozilla](annexes/2-exemples/3-mozilla.md)
+* [Métaphores](annexes/3-metaphores.md)
+* [Références](annexes/4-references.md)
+
+## Meta <a id="meta-1"></a>
+
+* [English abstract](meta/english-abstract.md)
+* [Remerciements](meta/remerciements.md)
+* [Formats et PDF](meta/meta.md)
+* [Licence](meta/licence.md)

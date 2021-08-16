@@ -1,7 +1,5 @@
 ## Docker
 
-_Cette analyse est une contribution tierce dont le contenu n'est pas confirmé par l'auteur._
-
 Docker est un logiciel libre de gestion de paravirtualisation qui permet d’isoler et d’allouer dynamiquement des ressources physiques. Il garantit la portabilité d’application et de leur dépendances à l’aide de containers et s’impose comme un standard de facto.
 
 Docker n’est pas un commun : la société commerciale Docker Inc garde les rôles clef de la gouvernance des différents produits et services, même si elle est ouverte et transparente. Cette positione est assumée, comme l'illustre le rôle du Benevolent dictator for life (BDFL) assuré par le fondateur Solomon Hykes.
