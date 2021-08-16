@@ -12,7 +12,7 @@ Si le service numérique commun n'a pas de modèle économique propre, l'absence
 
 Ces organisations peuvent être de différents types :
 
-- [Acteur public](../1-concepts/2-role_de_laction_publique).
+- [Acteur public](../1-concepts/2-action_publique).
 - Acteurs à but non-lucratif de droit privé.
 - Acteurs à but lucratif de droit privé.
 

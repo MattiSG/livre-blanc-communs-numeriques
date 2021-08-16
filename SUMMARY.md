@@ -1,10 +1,10 @@
 # Table des matières
 
 * [Note d’intention](README.md)
-* [Concepts utilisés](1-concepts_utilises/README.md)
-  * [Commun\(s\)](1-concepts_utilises/1-communs.md)
-  * [Action publique](1-concepts_utilises/2-role_de_laction_publique.md)
-  * [Numérique](1-concepts_utilises/3-numerique.md)
+* [Concepts](1-concepts/README.md)
+  * [Commun\(s\)](1-concepts/1-communs.md)
+  * [Action publique](1-concepts/2-action_publique.md)
+  * [Numérique](1-concepts/3-numerique.md)
 * [Constituants](2-constituants/README.md)
   * [Code source](2-constituants/1-code_source.md)
   * [Usage](2-constituants/2-usage.md)
