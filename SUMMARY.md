@@ -35,5 +35,6 @@
 
 * [English abstract](meta/english-abstract.md)
 * [Remerciements](meta/remerciements.md)
+* [Changelog](CHANGELOG.md)
 * [Format et PDF](meta/formats.md)
 * [Licence](meta/licence.md)
