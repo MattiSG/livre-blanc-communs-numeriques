@@ -2,12 +2,14 @@
 
 Certaines organisations peuvent soutenir le service numérique commun sans y contribuer directement, par exemple de manière financière par le don ou la subvention, ou par la réputation en promouvant les usages de l’outil.
 
-### Typologie des rétributions
+### Typologie
 
-Tout comme pour les contributeurs, il est utile pour la pérennité de leur soutien que les sponsors se sentent reconnus pour leur participation.
+Ces organisations peuvent être de différents types :
 
-| Type d’acteur / type de rétribution | Financier | Réputation | Pouvoir |
-| --- | --- | --- | --- |
-| **Acteur public** | Refacturation | Mise en avant du nom et logo | Participation au CA |
-| **Acteurs à but non-lucratif de droit privé** | Subvention | Mise en avant du nom et logo | Participation au CA |
-| **Acteurs à but lucratif de droit privé** | Prestation | Mise en avant du nom et logo | Participation au CA |
+- Acteur public.
+- Acteurs à but non-lucratif de droit privé.
+- Acteurs à but lucratif de droit privé.
+
+### Rétribution
+
+Tout comme pour les contributeurs, il est utile pour la pérennité de leur soutien que les sponsors se sentent reconnus pour leur participation. Dans tous les cas, ils peuvent être rétribués en réputation par la mise en avant de leur nom et logo. Ils peuvent également être rétribués en pouvoir décisionnel par une participation à certains organes de gouvernance. Dans ce cas, il faut faire attention au respect du commun afin de s'assurer que le soutien ne prenne pas plus d'importance que la contribution.
