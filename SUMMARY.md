@@ -35,5 +35,5 @@
 
 * [English abstract](meta/english-abstract.md)
 * [Remerciements](meta/remerciements.md)
-* [Formats et PDF](meta/meta.md)
+* [Formats et PDF](meta/formats.md)
 * [Licence](meta/licence.md)
