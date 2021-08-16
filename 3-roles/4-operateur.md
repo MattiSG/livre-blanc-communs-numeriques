@@ -1,10 +1,6 @@
 ## Opérateur
 
-Un rôle qui vise à organiser et fédérer les contributions.
-
-### Actions par constituant
-
-Pour différencier le rôle des [contributeurs](2-contributeur) de celui de l'opérateur, la liste des [constituants](../2-constituants) peut encore une fois servir de base pour décrire des actions menées par chacun de ces acteurs.
+Ce rôle vise notamment à organiser et fédérer les contributions. Pour différencier le rôle des [contributeurs](2-contributeur) de celui de l'opérateur, la liste des [constituants](../2-constituants) peut encore une fois servir de base pour décrire des actions menées par chacun de ces acteurs.
 
 | Constituant   | Actions des contributeurs                                            | Actions de l'opérateur                                                                            |
 |---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
