@@ -12,7 +12,7 @@
   * [Statistiques](2-constituants/4-statistiques.md)
   * [Communication](2-constituants/5-communication.md)
   * [Marque](2-constituants/6-marque.md)
-  * [Évolution](2-constituants/7-evolution.md)
+  * [Stratégie](2-constituants/7-strategie.md)
   * [Synthèse](2-constituants/8-synthese.md)
 * [Gouvernance](3-gouvernance/README.md)
   * [Défendre les intérêts communs](3-gouvernance/1-defendre_les_interets_communs.md)
