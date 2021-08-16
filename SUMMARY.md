@@ -19,7 +19,6 @@
   * [Garant](4-acteurs_et_statuts/3-garant.md)
   * [Opérateur](4-acteurs_et_statuts/4-operateur.md)
   * [Sponsor](4-acteurs_et_statuts/5-sponsor.md)
-  * [Actions par constituant](4-acteurs_et_statuts/5-actions.md)
 
 ## Annexes
 
