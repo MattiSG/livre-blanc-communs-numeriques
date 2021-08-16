@@ -2,11 +2,17 @@
 
 Certaines organisations peuvent soutenir le service numérique commun sans y contribuer directement, par exemple de manière financière par le don ou la subvention, ou par la réputation en promouvant les usages de l’outil.
 
-### Typologie
+### Risques adressés par le rôle
+
+#### Manque de moyens
+
+Si le service numérique commun n'a pas de modèle économique propre, l'absence de sponsors peut lui être fatale puisque le rôle d'[opérateur](./4-operateur) est difficile à tenir sans rétribution financière. Dans le cas des communs contributifs, l'absence d'opérateur rend l'édifice extrêmement fragile puisque la disponibilité du service n'est pas garantie, mettant en péril la capture de valeur par la contribution des usagers, et donc in fine la fourniture du service elle-même.
+
+### Forme juridique
 
 Ces organisations peuvent être de différents types :
 
-- Acteur public.
+- [Acteur public](../1-concepts/2-role_de_laction_publique).
 - Acteurs à but non-lucratif de droit privé.
 - Acteurs à but lucratif de droit privé.
 

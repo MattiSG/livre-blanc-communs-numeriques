@@ -14,16 +14,12 @@
   * [Marque](2-constituants/6-marque.md)
   * [Stratégie](2-constituants/7-strategie.md)
   * [Synthèse](2-constituants/8-synthese.md)
-* [Gouvernance](3-gouvernance/README.md)
-  * [Défendre les intérêts communs](3-gouvernance/1-defendre_les_interets_communs.md)
-  * [Déterminer les investissements](3-gouvernance/2-determiner_les_investissements.md)
-  * [Faire évoluer le commun](3-gouvernance/3-faire_evoluer_le_commun.md)
-* [Acteurs et statuts](4-acteurs_et_statuts/README.md)
-  * [Communauté](4-acteurs_et_statuts/1-communaute.md)
-  * [Contributeur](4-acteurs_et_statuts/2-contributeur.md)
-  * [Garant](4-acteurs_et_statuts/3-garant.md)
-  * [Opérateur](4-acteurs_et_statuts/4-operateur.md)
-  * [Sponsor](4-acteurs_et_statuts/5-sponsor.md)
+* [Rôles](3-roles/README.md)
+  * [Communauté](3-roles/1-communaute.md)
+  * [Contributeur](3-roles/2-contributeur.md)
+  * [Garant](3-roles/3-garant.md)
+  * [Opérateur](3-roles/4-operateur.md)
+  * [Sponsor](3-roles/5-sponsor.md)
 
 ## Annexes
 
