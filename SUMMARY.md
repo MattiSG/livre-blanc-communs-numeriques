@@ -18,6 +18,7 @@
   * [Défendre les intérêts communs](3-gouvernance/1-defendre_les_interets_communs.md)
   * [Garant](4-acteurs_et_statuts/3-garant.md)
   * [Opérateur](4-acteurs_et_statuts/4-operateur.md)
+  * [Sponsor](4-acteurs_et_statuts/5-sponsor.md)
   * [Actions par constituant](4-acteurs_et_statuts/5-actions.md)
 
 ## Annexes
