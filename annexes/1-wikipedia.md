@@ -2,11 +2,11 @@
 
 Wikipédia est une encyclopédie universelle multilingue dont le contenu est rédigé par ses lecteurs. Wikipédia a pour objectif d’offrir un contenu librement réutilisable, objectif et vérifiable, que chacun peut modifier et améliorer. Chaque instance nationale pouvant disposer de ses propres règles, cet exemple sur focalise sur la version française, accessible à l’adresse fr.wikipedia.org.
 
-Le commun de Wikipédia France est résumé sur sa page d’accueil :
+Le commun de Wikipédia France est résumé sur sa page d’accueil :
 
 > Wikipédia est définie par des [principes fondateurs](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Principes_fondateurs). Son contenu est sous [licence Creative Commons BY-SA](http://creativecommons.org/licenses/by-sa/3.0/deed.fr). Il peut être [copié et réutilisé sous la même licence](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia), sous réserve d&#039;en respecter les conditions.
 
-Chacun peut publier immédiatement du contenu en ligne, à condition de respecter les règles essentielles établies par la [Fondation Wikimedia](https://wikimediafoundation.org/wiki/Terms_of_Use/fr) et par la communauté ; par exemple, la [vérifiabilité du contenu](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9), l&#039;[admissibilité des articles](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Crit%C3%A8res_d%27admissibilit%C3%A9_des_articles) et [garder une attitude cordiale](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:R%C3%A8gles_de_savoir-vivre).
+Chacun peut publier immédiatement du contenu en ligne, à condition de respecter les règles essentielles établies par la [Fondation Wikimedia](https://wikimediafoundation.org/wiki/Terms_of_Use/fr) et par la communauté ; par exemple, la [vérifiabilité du contenu](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9), l&#039;[admissibilité des articles](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Crit%C3%A8res_d%27admissibilit%C3%A9_des_articles) et [garder une attitude cordiale](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:R%C3%A8gles_de_savoir-vivre).
 
 On voit l’importance accordée à la communauté, mais aussi aux principes politiques qui la gouvernent, avec une hiérarchie de normes (principes, règles, recommandations) édictées et évolutives (à l’exception des principes, qui sont le fondement du commun).
 
@@ -16,11 +16,11 @@ Le logiciel principal qui permet la publication et la modification du contenu de
 
 ### Usage
 
-Les conditions générales d&#39;utilisation de Wikipédia sont les mêmes pour toutes les variantes linguistiques. Voici un extrait du résumé en français :
+Les conditions générales d&#39;utilisation de Wikipédia sont les mêmes pour toutes les variantes linguistiques. Voici un extrait du résumé en français :
 
-> Vous êtes libre de lire nos articles et autres médias, gratuitement ; réutiliser nos articles et autres médias sous licences libres ; contribuer à et modifier nos différents sites et Projets sous licences libres.
+> Vous êtes libre de lire nos articles et autres médias, gratuitement ; réutiliser nos articles et autres médias sous licences libres ; contribuer à et modifier nos différents sites et Projets sous licences libres.
 >
-> Sous les conditions suivantes :
+> Sous les conditions suivantes :
 >
 > - Responsabilité — Vous êtes responsables de vos modifications (puisque que nous ne faisons qu&#39;héberger votre contenu).
 > - Courtoisie — Vous restez poli, courtois et respectueux, et vous ne vous livrez pas à des attaques contre les autres personnes.
@@ -28,7 +28,7 @@ Les conditions générales d&#39;utilisation de Wikipédia sont les mêmes pour 
 > - Pas de nuisance — Vous ne cherchez pas à porter préjudice à notre infrastructure technique.
 > - Conditions d&#39;utilisation et règlement — Vous adhérez aux Conditions d&#39;utilisation ci-dessous aux règlements applicables de la communauté quand vous visitez nos sites ou que vous participez à nos communautés.
 
-Ces conditions générales répondent donc exactement aux contraintes exprimées dans le [chapitre associé](../../2-constituants/2-usage) : pas de limitation d&#39;usage autre que celles nécessaires à l&#39;opération du service et à la prévention des actes visant à réduire la capacité d&#39;autres usagers.
+Ces conditions générales répondent donc exactement aux contraintes exprimées dans le [chapitre associé](../../2-constituants/2-usage) : pas de limitation d&#39;usage autre que celles nécessaires à l&#39;opération du service et à la prévention des actes visant à réduire la capacité d&#39;autres usagers.
 
 ### Données fournies par les usagers
 
@@ -52,7 +52,7 @@ Les [contraintes](../../2-constituants/5-communication) sur la représentativit�
 
 ### Marque
 
-La Wikimedia Foundation est dépositaire de la marque Wikipédia, et la [met à disposition](https://foundation.wikimedia.org/wiki/Trademark_policy) sous une politique de marques publique. Le droit d&#39;usage est acquis lorsque l&#39;objectif poursuivi est :
+La Wikimedia Foundation est dépositaire de la marque Wikipédia, et la [met à disposition](https://foundation.wikimedia.org/wiki/Trademark_policy) sous une politique de marques publique. Le droit d&#39;usage est acquis lorsque l&#39;objectif poursuivi est :
 
 - Représenter sincèrement un site Wikimédia.
 - Documenter factuellement des actualités liées à Wikimédia.
@@ -65,13 +65,13 @@ Ces contraintes d&#39;usage de la marque sont donc au bénéfice de la communaut
 
 ### Stratégie
 
-Les « résolutions » prises par la Wikimedia Foundation sont des orientations stratégiques majeures. Elles sont publiques et [documentées](https://foundation.wikimedia.org/wiki/Resolutions), et sont prises par le conseil d&#39;administration élu selon les conditions décrites plus haut. Les modalités de prises de décision en vigueur sur la Wikipédia francophone sont elles aussi [publiques](https://fr.wikipedia.org/wiki/Wikipédia:Système_de_prise_de_décision) : un changement de règle peut être demandé par n&#39;importe quel contributeur, et la prise de décision est faite au consensus, et au vote à défaut de consensus.
+Les « résolutions » prises par la Wikimedia Foundation sont des orientations stratégiques majeures. Elles sont publiques et [documentées](https://foundation.wikimedia.org/wiki/Resolutions), et sont prises par le conseil d&#39;administration élu selon les conditions décrites plus haut. Les modalités de prises de décision en vigueur sur la Wikipédia francophone sont elles aussi [publiques](https://fr.wikipedia.org/wiki/Wikipédia:Système_de_prise_de_décision) : un changement de règle peut être demandé par n&#39;importe quel contributeur, et la prise de décision est faite au consensus, et au vote à défaut de consensus.
 
 Par la publicité des comptes rendue obligatoire par les statuts juridiques des structures opérant le service, par la possibilité laissée à tout contributeur d&#39;ouvrir une discussion menant à une décision, et par la documentation des règles de décision, les [contraintes](../../2-constituants/7-strategie) applicables à la stratégie d&#39;évolution sont remplies.
 
 ### Synthèse
 
-L&#39;application du cadre d&#39;analyse sur l&#39;intégralité des constituants du service numérique fr.wikipedia.org permet de caractériser ce en quoi sa gouvernance relève des services numériques communs, au-delà de la simple analyse du code source. Ces conclusions peuvent être résumées dans un tableau :
+L&#39;application du cadre d&#39;analyse sur l&#39;intégralité des constituants du service numérique fr.wikipedia.org permet de caractériser ce en quoi sa gouvernance relève des services numériques communs, au-delà de la simple analyse du code source. Ces conclusions peuvent être résumées dans un tableau :
 
 |           Constituant          |                                                                Règle                                                               |
 |:------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
@@ -89,15 +89,15 @@ Par ailleurs, les modalités de contribution et d'animation sur chaque constitua
 
 | Constituant | Actions des contributeurs individuels                                                                | Actions des [administrateurs](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Administrateur)                                                                                                                           |
 |-----------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Usage           | Connexion sur wikipedia.org.                                                                                       | Page « actualités », [article labellisé du jour](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)…                                                                       |
+| Usage           | Connexion sur wikipedia.org.                                                                                       | Page « actualités », [article labellisé du jour](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)…                                                                       |
 | Code source     | Pull request, peer review sur [gerrit.wikimedia.org](https://gerrit.wikimedia.org).                                | [Traitement (tri, orientation…) des sollicitations d’intégration](https://github.com/wikimedia/mediawiki/pull/66).                                                                      |
-| Données         | Lien « éditer » sur chaque page.                                                                                   | [Suspension de compte, annulation de modifications](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Administrateur#Fonctionnalit.C3.A9s_suppl.C3.A9mentaires_qui_lui_sont_accord.C3.A9es). |
+| Données         | Lien « éditer » sur chaque page.                                                                                   | [Suspension de compte, annulation de modifications](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Administrateur#Fonctionnalit.C3.A9s_suppl.C3.A9mentaires_qui_lui_sont_accord.C3.A9es). |
 | Statistiques    | Usage                                                                                                              | Opération de stats.wikimedia.org                                                                                                           |
 | Communauté      | Pages [Premiers pas](https://fr.wikipedia.org/wiki/Aide:Premiers_pas).                                             | [Concours annuels](http://wikilovesmonuments.fr) et [événements](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:WikiCheese) organisés par [Wikimedia France](https://www.wikimedia.fr).   |
 | Marque          | Recommandation d’usage, citation, hyperliens.                                                                      | Pins, badges, autocollants édités et distribués par Wikimedia France.                                                                                                                   |
 | Stratégie       | [Consensus et vote à défaut.](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Syst%C3%A8me_de_prise_de_d%C3%A9cision) |                                                                                                                                                                                         |
 
 
-[^24]: On notera que le choix de la GPL plutôt que de la variante Affero GPL ne semble pas le plus adapté pour un logiciel visant à exposer une interface web : en cas de modification du code, la redistribution de la version modifiée n’est pas rendue obligatoire tant qu’elle reste sur un serveur.
+[^24]: On notera que le choix de la GPL plutôt que de la variante Affero GPL ne semble pas le plus adapté pour un logiciel visant à exposer une interface web : en cas de modification du code, la redistribution de la version modifiée n’est pas rendue obligatoire tant qu’elle reste sur un serveur.
 
 [^25]: Bien que le contrôle de leur application soit laissé à la communauté, ces règles font parties des principes fondateurs et sont donc sous la responsabilité principale de la Wikimedia Foundation.

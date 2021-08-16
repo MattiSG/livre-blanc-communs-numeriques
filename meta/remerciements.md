@@ -1,6 +1,6 @@
 ## Remerciements
 
-Ces personnes ont permis à cet ouvrage d'être ce qu'il est aujourd'hui :
+Ces personnes ont permis à cet ouvrage d'être ce qu'il est aujourd'hui :
 
 - David Bruant
 - Henri Verdier

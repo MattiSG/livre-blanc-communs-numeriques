@@ -1,6 +1,6 @@
 # Constituants des communs numériques
 
-Je propose de décomposer les services numériques en une série de constituants sur lesquels appliquer des règles de mise en partage pour que la gouvernance résultante puisse les amener à être considérés comme des communs numériques : code source, droit d’usage, données produites par les usagers, données d’usage, moyens de communication, marque, et modalités d'évolution.
+Je propose de décomposer les services numériques en une série de constituants sur lesquels appliquer des règles de mise en partage pour que la gouvernance résultante puisse les amener à être considérés comme des communs numériques : code source, droit d’usage, données produites par les usagers, données d’usage, moyens de communication, marque, et modalités d'évolution.
 
 Si un seul de ces constituants n’est pas mis en partage, cela ouvre des failles permettant la réappropriation de ressources informationnelles nécessaires à l’opération du service à moyen ou long terme. Par exemple, un service numérique dont le code source est sous licence libre mais dont la marque ne peut être utilisée que par une seule structure ne peut pas être considéré comme un service administré en commun.
 

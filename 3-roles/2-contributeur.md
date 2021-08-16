@@ -10,7 +10,7 @@ En l'absence de contributeurs, le service numérique commun n'évolue pas. Cela 
 
 Un contributeur ne peut être qu’une personne physique.
 
-Une personne morale ne peut contribuer à des communs qu’indirectement, par l’affiliation de contributeurs individuels, par exemple ses salariés ; ou en étant [sponsor](./5-sponsor) de l'activité des contributeurs, par un soutien financier, logistique, réputationnel…
+Une personne morale ne peut contribuer à des communs qu’indirectement, par l’affiliation de contributeurs individuels, par exemple ses salariés ; ou en étant [sponsor](./5-sponsor) de l'activité des contributeurs, par un soutien financier, logistique, réputationnel…
 
 Les contributeurs sont en premier lieu des [utilisateurs](./1-communaute).
 

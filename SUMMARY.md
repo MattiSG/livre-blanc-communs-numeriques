@@ -23,7 +23,7 @@
 
 ## Annexes
 
-* [Exemple : Wikipédia](annexes/1-wikipedia.md)
+* [Exemple : Wikipédia](annexes/1-wikipedia.md)
 * [Exemples contribués](annexes/2-exemples/README.md)
   * [Docker](annexes/2-exemples/1-docker.md)
   * [Node.js](annexes/2-exemples/2-nodejs.md)

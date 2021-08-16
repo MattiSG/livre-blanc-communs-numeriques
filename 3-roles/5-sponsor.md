@@ -10,7 +10,7 @@ Si le service numérique commun n'a pas de modèle économique propre, l'absence
 
 ### Forme juridique
 
-Ces organisations peuvent être de différents types :
+Ces organisations peuvent être de différents types :
 
 - [Acteur public](../1-concepts/2-action_publique).
 - Acteurs à but non-lucratif de droit privé.

@@ -34,5 +34,5 @@ D’autre part, ceux dont la valeur informationnelle ne peut être maintenue que
 
 [^7]: Par exemple, le temps investi par un contributeur pour noter un hôtel dans le silo de données de TripAdvisor est du temps qu’il ne peut pas investir dans la rédaction d’un guide de voyage sur wikitravel.org.
 
-[^8]: Pour exemples, respectivement : la [Base adresse nationale](https://adresse.data.gouv.fr), [Pioupiou](https://pioupiou.fr/fr/) ou [QuakeCatcher](http://qcn.stanford.edu/index.php), [RenderFarming.net](http://burp.renderfarming.net) ou [World Community Grid](https://www.worldcommunitygrid.org).
+[^8]: Pour exemples, respectivement : la [Base adresse nationale](https://adresse.data.gouv.fr), [Pioupiou](https://pioupiou.fr/fr/) ou [QuakeCatcher](http://qcn.stanford.edu/index.php), [RenderFarming.net](http://burp.renderfarming.net) ou [World Community Grid](https://www.worldcommunitygrid.org).
 
