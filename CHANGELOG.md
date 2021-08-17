@@ -3,9 +3,10 @@ Ce document évolue dans le temps. Le journal des modifications ci-dessous décr
 ## v1.2.0
 
 - Fusionne les parties « Gouvernance » et « Acteurs » en une seule section « Rôles », organisée autour des risques adressés par les rôles (pourquoi il faut les tenir) et des formes juridiques possibles (qui peut les tenir).
-- Éclate le constituant Données en Données et Statistiques au vu du nombre de cas réels où les statistiques sont ouvertes.
+- Éclate le constituant Données en Données et Statistiques au vu du faible nombre de cas réels où les statistiques sont ouvertes.
 - Renomme et précise le constituant Communauté en Communication.
 - Précise le constituant Stratégie.
+- Réécrit l'introduction de la partie Constituants et y intègre la grille de synthèse.
 - Réorganise les pages en groupes.
 - Ajout du terme « code of conduct ».
 - Ajout de l'ops dans le constituant Code source.

@@ -1,4 +1,4 @@
-## Usage
+## Conditions d'usage
 
 Certains services peuvent être fournis par la simple exécution du code (par exemple, la compression d’images sur un ordinateur personnel). Dans ces cas-là, le régime d’usage dérive du régime d’accès au code source. Dans d’autres cas, la duplication du code source ne permet pas la duplication du service rendu, par exemple en cas d’interfaçage avec des ressources privées telles qu’API ou dans le cas d’un service appliquant une stratégie de plateforme (Colin & Verdier, 2013). Dans ce second cas, la prééminence de la valeur des effets de réseau par rapport à la valeur du code lui-même rendent extrêmement difficile la réplication du service[^12].
 
