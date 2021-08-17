@@ -4,7 +4,7 @@ Les usagers peuvent être mobilisés d’autres manières que dans leur usage ha
 
 #### Un commun minimal inclut la mise à disposition de tous les contributeurs des moyens de contacter la communauté, tout en garantissant un volume limité de sollicitations afin de maximiser la valeur potentielle. {#ouvrir-contact}
 
-**Recommandation opérationnelle : permettre aux usagers de fournir leur adresse électronique, les enregistrer dans un outil de diffusion compatible avec le droit européen sur les données personnelles comme [Mailjet](https://www.mailjet.com) ou [Framalistes](https://framalistes.org) et s’engager envers les personnes inscrites sur une fréquence maximale d’envoi (1 fois par mois, par semaine…). Mettre à disposition des contributeurs un espace de rédaction collaborative comme [Framapad](https://framapad.org) pour préparer les envois.**
+**Recommandation opérationnelle : permettre aux usagers de fournir leur adresse électronique, les enregistrer dans un outil de diffusion compatible avec le droit européen sur les données personnelles comme [SendInBlue](https://fr.sendinblue.com) ou [Framalistes](https://framalistes.org) et s’engager envers les personnes inscrites sur une fréquence maximale d’envoi (1 fois par mois, par semaine…). Mettre à disposition des contributeurs un espace de rédaction collaborative comme [Framapad](https://framapad.org) pour préparer les envois.**
 
 En plus des messages directs, les outils de diffusion que sont les réseaux sociaux peuvent permettre de toucher un public large, pouvant aller au-delà des usagers et des contributeurs. Là encore, la capacité à toucher ce public doit être mise en partage.
 
