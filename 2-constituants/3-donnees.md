@@ -4,7 +4,7 @@ Les données produites par les usagers dans leurs interactions avec un service n
 
 #### Un commun minimal inclut la mise à disposition des données manipulées sous une licence qui en permet la réutilisation. {#publier-donnees}
 
-#### _Recommandation pour les acteurs publics : exporter à intervalles réguliers (et a minima hebdomadairement) sur data.gouv.fr la base de données du service en rendant impossible la réidentification de ses utilisateurs[^18], sous [Licence ouverte 2](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)._ {#publier-donnees-recommandation-public}
+**Recommandation opérationnelle : exporter à intervalles réguliers (et a minima hebdomadairement) sur data.gouv.fr la base de données du service en rendant impossible la réidentification de ses utilisateurs[^18], sous [Licence ouverte 2](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf).**
 
 La réutilisabilité de ces données est suffisante pour garantir le statut de communs numériques à des logiciels qui les capturent. Néanmoins, une réappropriation devient possible si un opérateur mal intentionné les met à disposition dans un format peu lisible et se conserve l’exclusivité d’une chaîne d’analyse permettant d’en extraire la valeur.
 
@@ -12,7 +12,7 @@ Par ailleurs, les contributeurs d'un service peuvent être découragés de parti
 
 #### Un commun contributif inclut la mise à disposition des données produites par les usagers sous une licence de repartage. {#ouvrir-donnees-repartage}
 
-#### _Recommandation pour les acteurs publics : dans la recommandation précédente, utiliser une licence ODbL au lieu d’une Licence ouverte._ {#ouvrir-donnees-repartage-recommandation-public}
+**Recommandation opérationnelle : dans la recommandation précédente, utiliser une licence ODbL au lieu d’une Licence ouverte.**
 
 [^16]: Par exemple, un réseau social comme diaspora* ou Facebook, ou une ressource collaborative comme [wikitravel.org](http://wikitravel.org).
 

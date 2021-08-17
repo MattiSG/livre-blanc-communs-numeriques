@@ -6,13 +6,13 @@ Cette potentielle impossibilité _de facto_ à apporter une alternative aux moda
 
 #### Un commun minimal inclut des conditions générales d’utilisation qui permettent l’usage sans conditions autres que celles strictement nécessaires à l’opération du service et à la prévention des actes visant à réduire la capacité d’autres usages. {#cgu-larges}
 
-#### _Recommandation pour les acteurs publics : transformer les contraintes juridiques en un espace d’information pour les usagers, en utilisant un langage clair et lisible qui catégorise les conditions d’usage selon leurs questionnements ([exemple](https://mes-aides.gouv.fr/cgu))._ {#cgu-larges-recommandation-public}
+**Recommandation opérationnelle : transformer les contraintes juridiques en un espace d’information pour les usagers, en utilisant un langage clair et lisible qui catégorise les conditions d’usage selon leurs questionnements ([exemple](https://mes-aides.gouv.fr/cgu)).**
 
 Au-delà des garanties juridiques, des garanties techniques sont appropriées pour que la liberté d’usage puisse être effective. Dans le cas d’un commun minimal, une qualité de service insuffisante peut être remédiée par la création d’un service alternatif sur la base du code. Mais, dans le cas d’un commun contributif, il faut que l’instance à travers laquelle la communauté collabore soit fonctionnelle. Si le service est en maintenance permanente, même les CGU les plus ouvertes ne pourront en permettre l’usage.
 
 #### Un commun contributif inclut un engagement sur un taux de disponibilité du service pour ses usagers (SLA[^14]). Pour ne pas freiner l’évolution du service, ce SLA doit évoluer dans le temps et être interprété comme un « budget de contribution[^15] ». {#budget-contribution}
 
-#### _Recommandation pour les acteurs publics : déterminer le SLA selon le nombre d’usagers et la capacité de traitement des agents humains à gérer des anomalies en s'assurant de la facilité et de la qualité de ce traitement, en appliquant une formule de type `SLA = 1 - (nombre de dossiers pouvant être traités manuellement ÷ nombre d’usagers sur la même période)`._ {#budget-contribution-recommandation-public}
+**Recommandation opérationnelle : déterminer le SLA selon le nombre d’usagers et la capacité de traitement des agents humains à gérer des anomalies en s'assurant de la facilité et de la qualité de ce traitement, en appliquant une formule de type `SLA = 1 - (nombre de dossiers pouvant être traités manuellement ÷ nombre d’usagers sur la même période)`.**
 
 > Par exemple, si je dispose d'un community manager pouvant accompagner et débloquer efficacement 10 usagers par jour, avec un service utilisé par 1 000 usagers quotidiens, mon budget d'erreur est de 10 / 1 000 = 1%, ce qui fixe mon SLA à 99 %.
 

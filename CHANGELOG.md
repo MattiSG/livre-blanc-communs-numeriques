@@ -7,6 +7,7 @@ Ce document évolue dans le temps. Le journal des modifications ci-dessous décr
 - Renomme et précise le constituant Communauté en Communication.
 - Précise le constituant Stratégie.
 - Réécrit l'introduction de la partie Constituants et y intègre la grille de synthèse.
+- Renomme les recommandations « pour les acteurs publics » en « opérationnelles », car il n'y a que peu de cas où elles sont réellement spécifiques aux acteurs publics.
 - Réorganise les pages en groupes.
 - Ajout du terme « code of conduct ».
 - Ajout de l'ops dans le constituant Code source.
