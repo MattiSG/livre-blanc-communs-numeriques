@@ -2,15 +2,19 @@
 
 Certains services peuvent être fournis par la simple exécution du code (par exemple, la compression d’images sur un ordinateur personnel). Dans ces cas-là, le régime d’usage dérive du régime d’accès au code source. Dans d’autres cas, la duplication du code source ne permet pas la duplication du service rendu, par exemple en cas d’interfaçage avec des ressources privées telles qu’API ou dans le cas d’un service appliquant une stratégie de plateforme (Colin & Verdier, 2013). Dans ce second cas, la prééminence de la valeur des effets de réseau par rapport à la valeur du code lui-même rendent extrêmement difficile la réplication du service[^12].
 
+### CGUs permissives
+
 Cette potentielle impossibilité _de facto_ à apporter une alternative aux modalités d’usage du service numérique quand bien même le code source serait duplicable _de jure_ montre que le droit d’usage relève des constituants à part entière de la ressource partagée et non systématiquement d’une instance de cette ressource dont chaque variante pourrait imposer son propre droit d’usage[^13].
 
-#### Un commun minimal inclut des conditions générales d’utilisation qui permettent l’usage sans conditions autres que celles strictement nécessaires à l’opération du service et à la prévention des actes visant à réduire la capacité d’autres usages. {#cgu-larges}
+**Une contrainte minimale est que les conditions générales d’utilisation doivent permettre l’usage sans conditions autres que celles strictement nécessaires à l’opération du service et à la prévention des actes visant à réduire la capacité d’autres usages.**
 
 **Recommandation opérationnelle : transformer les contraintes juridiques en un espace d’information pour les usagers, en utilisant un langage clair et lisible qui catégorise les conditions d’usage selon leurs questionnements ([exemple](https://mes-aides.gouv.fr/cgu)).**
 
+### Budget de contribution {budget-contribution}
+
 Au-delà des garanties juridiques, des garanties techniques sont appropriées pour que la liberté d’usage puisse être effective. Dans le cas d’un commun minimal, une qualité de service insuffisante peut être remédiée par la création d’un service alternatif sur la base du code. Mais, dans le cas d’un commun contributif, il faut que l’instance à travers laquelle la communauté collabore soit fonctionnelle. Si le service est en maintenance permanente, même les CGU les plus ouvertes ne pourront en permettre l’usage.
 
-#### Un commun contributif inclut un engagement sur un taux de disponibilité du service pour ses usagers (SLA[^14]). Pour ne pas freiner l’évolution du service, ce SLA doit évoluer dans le temps et être interprété comme un « budget de contribution[^15] ». {#budget-contribution}
+**Pour les services contributifs, une contrainte porte sur un engagement sur un taux de disponibilité du service pour ses usagers (SLA[^14]). Pour ne pas freiner l’évolution du service, ce SLA doit évoluer dans le temps et être interprété comme un « budget de contribution[^15] ».**
 
 **Recommandation opérationnelle : déterminer le SLA selon le nombre d’usagers et la capacité de traitement des agents humains à gérer des anomalies en s'assurant de la facilité et de la qualité de ce traitement, en appliquant une formule de type `SLA = 1 - (nombre de dossiers pouvant être traités manuellement ÷ nombre d’usagers sur la même période)`.**
 
