@@ -10,7 +10,7 @@ Cette potentielle impossibilité _de facto_ à apporter une alternative aux moda
 
 **Recommandation opérationnelle : transformer les contraintes juridiques en un espace d’information pour les usagers, en utilisant un langage clair et lisible qui catégorise les conditions d’usage selon leurs questionnements ([exemple](https://mes-aides.gouv.fr/cgu)).**
 
-### Budget de contribution {budget-contribution}
+### Budget de contribution {#budget-contribution}
 
 Au-delà des garanties juridiques, des garanties techniques sont appropriées pour que la liberté d’usage puisse être effective. Dans le cas d’un commun minimal, une qualité de service insuffisante peut être remédiée par la création d’un service alternatif sur la base du code. Mais, dans le cas d’un commun contributif, il faut que l’instance à travers laquelle la communauté collabore soit fonctionnelle. Si le service est en maintenance permanente, même les CGU les plus ouvertes ne pourront en permettre l’usage.
 
