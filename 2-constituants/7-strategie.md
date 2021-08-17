@@ -16,4 +16,4 @@ Les modalités d’arbitrage sur la base de ces informations, elles, peuvent êt
 
 #### Un commun minimal décrit comment les choix d'investissement des moyens disponibles sont pris. {#arbitrages}
 
-**Recommandation opérationnelle : pour maximiser la participation sans contrainte territoriale, privilégier les outils de décision asynchrones et distribués comme [Loomio](https://www.loomio.org) et des réunions d'information a minima enregistrées et diffusées.**
+**Recommandation opérationnelle : pour maximiser la participation sans contrainte géographique ni temporelle, privilégier les outils de décision asynchrones et distribués comme [Loomio](https://www.loomio.org) et des réunions d'information a minima enregistrées et diffusées.**
