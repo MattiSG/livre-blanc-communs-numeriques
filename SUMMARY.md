@@ -17,8 +17,8 @@
 * [Rôles](3-roles/README.md)
   * [Communauté](3-roles/1-communaute.md)
   * [Contributeur](3-roles/2-contributeur.md)
-  * [Garant](3-roles/3-garant.md)
-  * [Opérateur](3-roles/4-operateur.md)
+  * [Opérateur](3-roles/3-operateur.md)
+  * [Garant](3-roles/4-garant.md)
   * [Sponsor](3-roles/5-sponsor.md)
 
 ## Annexes

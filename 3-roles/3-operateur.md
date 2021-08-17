@@ -42,7 +42,7 @@ Comme tout service, les communs numériques peuvent être critiqués. Certaines 
 
 Dans les communs numériques émergents ou d'envergure limitée, ce rôle peut être tenu directement par certains contributeurs. Néanmoins, le mélange des rôles est délicat et rarement soutenable car il mène les contributeurs portant cette responsabilité supplémentaire à une charge de travail supplémentaire, souvent différente de celle qu'ils mènent habituellement, et qui peut les mettre dans des situations d'arbitrage délicates entre leurs propres contributions et celles d'autres personnes.
 
-En termes de structure, un bon acteur pour tenir ce rôle a une capacité économique pour engager des dépenses et s’ajuster rapidement aux besoins. L’alignement entre gestion et objectifs est supervisé par le [garant](./3-garant).
+En termes de structure, un bon acteur pour tenir ce rôle a une capacité économique pour engager des dépenses et s’ajuster rapidement aux besoins. L’alignement entre gestion et objectifs est supervisé par le [garant](./4-garant).
 
 Il peut par exemple prendre la forme de :
 
