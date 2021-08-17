@@ -32,7 +32,7 @@ Dans cet objectif également, les modalités techniques qui permettent l’opér
 
 ####  Un commun minimal inclut un engagement à documenter les modalités d'opération technique du service. {#ops}
 
-#### _Recommandation pour les acteurs publics : documenter de manière exécurable par le biais d’un [système de gestion de configuration](https://fr.wikipedia.org/wiki/Gestion_de_configuration_logicielle), qui permet de définir l’infrastructure comme du code._ {#ops-recommandation-public}
+#### _Recommandation pour les acteurs publics : documenter de manière exécutable par le biais d’un [système de gestion de configuration](https://fr.wikipedia.org/wiki/Gestion_de_configuration_logicielle), qui permet de définir l’infrastructure comme du code._ {#ops-recommandation-public}
 
 [^9]: Liste exhaustive disponible sur [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
 
