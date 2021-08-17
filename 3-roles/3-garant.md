@@ -28,6 +28,6 @@ Il peut par exemple prendre la forme de :
 
 - Association.
 - Conseil de l’opérateur (bureau d’une association, conseil d’administration d’une SCIC…).
-- Acteur public.
+- [Acteur public](../1-concepts/2-action_publique).
 
-Il est à noter qu'une fondation ne serait pas appropriée car une fondation n’a vocation qu’à attribuer des ressources sur le long terme, alors qu’on cherche ici une structure capable de prendre des décisions de gouvernance.
+Il est à noter qu'en droit français, une [fondation](https://www.service-public.fr/associations/vosdroits/F31023) ne serait pas appropriée car une fondation n’a vocation qu’à attribuer des ressources sur le long terme, alors qu’on cherche ici une structure capable de prendre des décisions structurantes.

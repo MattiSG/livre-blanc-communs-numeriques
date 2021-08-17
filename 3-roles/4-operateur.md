@@ -18,13 +18,13 @@ Ce rôle vise notamment à organiser et fédérer les contributions. Pour diffé
 
 La mise en partage des ressources ne peut être opérante que si lesdites ressources sont accessibles. Qui garantit la disponibilité du commun ? Par quels moyens ?
 
-**Un rôle de responsabilité opérationnelle du commun doit être tenu, avec des moyens de gestion d’accès et de rationnement temporaire pour garantir un accès à tous les membres de la communauté.** {#role-operationnel}**
+**Un rôle de responsabilité opérationnelle du commun doit être tenu, avec des droits de gestion d’accès et de rationnement temporaire pour garantir un accès à tous les membres de la communauté.** {#role-operationnel}**
 
 #### Stagnation stratégique {#stagnation}
 
-La feuille de route générale du service est basée sur les besoins de la communauté. Néanmoins, des arbitrages doivent être menés sur la base des ressources disponibles. Comment arbitrer la [stratégie](../2-constituants/7-strategie) si la communauté n'y arrive pas, en évitant le point mort ?
+La feuille de route générale du service est basée sur les besoins de la communauté. Néanmoins, des arbitrages doivent être menés sur la base des ressources disponibles. Comment arbitrer la [stratégie](../2-constituants/7-strategie), ou du moins en faciliter l'établissement, si la communauté n'y arrive pas, en évitant le point mort ?
 
-**Un rôle de responsabilité de produit (_product ownership_) doit être défini, avec un droit d’arbitrage final entre la mise en œuvre de fonctionnalités incompatibles dans leurs effets ou dans leur consommation de ressources.**
+**Un rôle de responsabilité de produit (_product ownership_) doit être tenu, avec un droit d’arbitrage final entre la mise en œuvre de fonctionnalités incompatibles dans leurs effets ou dans leur consommation de ressources.**
 
 #### Illégalité des contributions {#illegalite-contributions}
 

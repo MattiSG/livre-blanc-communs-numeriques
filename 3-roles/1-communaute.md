@@ -1,6 +1,6 @@
 ## Communauté
 
-La communauté des utilisateurs des communs numériques est toujours l’ultime décisionnaire. La question des modalités de son expression est à déterminer par chaque commun.
+La communauté des utilisateurs des communs numériques est toujours l’ultime décisionnaire. Les modalités de son expression sont à déterminer par chaque commun.
 
 Les différents rôles permettant l’application du commun doivent être eux-mêmes soumis à un examen attentif pour garantir qu’ils l’appliquent. L’instance la plus légitime pour ce faire est l’ensemble de la communauté.
 

@@ -1,8 +1,6 @@
 # Synthèse
 
-Nous avons construit une grille d’analyse qui met en exergue les constituants des services numériques sur lesquelles une gouvernance spécifique doit être appliquée pour éviter une réappropriation.
-
-En définissant dès leur création des règles de mise en partage de ces constituants  qui sont adaptées à l’objectif d’une opération en tant que commun numérique, les risques de réappropriation sont minimisés. Pour déterminer si ces règle sont adaptées à cet objectif, nous avons associé à chaque constituant un jeu de contraintes sur les règles qui peuvent lui être appliquées. Chaque service numérique commun devrait, en fonction de ses contraintes opérationnelles (modèle de production de valeur, communauté, historique, juridiction…), déterminer l’ensemble de règles spécifique qui lui convient. Ces contraintes sont résumées dans le tableau ci-dessous.
+En listant les constituants des services numériques, j'ai construit une grille d’analyse qui liste des contraintes à appliquer sur leurs règles de gouvernance afin de minimiser le risque de réappropriation. Ces contraintes sont résumées dans le tableau ci-dessous. Chaque service numérique souhaitant être opéré en commun devrait ensuite, en fonction de ses contraintes opérationnelles (modèle de production de valeur, communauté, historique, juridiction…), déterminer l’ensemble de règles spécifique qui lui convient.
 
 |            Constituant            |                                                         Contrainte sur la règle                                                        | Contrainte supplémentaire si valeur contributive |
 |:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------:|
