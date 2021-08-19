@@ -1,6 +1,6 @@
 Ce document évolue dans le temps. Le journal des modifications ci-dessous décrit ses évolutions et les regroupe sous des numéros de version suivant la spécification [SemVer](https://semver.org/lang/fr/), afin de permettre d'en référencer des versions spécifiques.
 
-## v1.2.0
+## v1.2.0 (19/08/2021)
 
 - Fusionne les parties « Gouvernance » et « Acteurs » en une seule section « Rôles », organisée autour des risques adressés par les rôles (pourquoi il faut les tenir) et des formes juridiques possibles (qui peut les tenir).
 - Éclate le constituant Données en Données et Statistiques au vu du faible nombre de cas réels où les statistiques sont ouvertes.

@@ -2,4 +2,4 @@ Ce livre est mis à disposition par le biais d'un [GitBook](https://www.gitbook.
 
 ## Téléchargement
 
-Vous pouvez lire ce livre [en ligne](https://communs.mattischneider.fr) ou le télécharger au format [PDF](https://www.gitbook.com/download/pdf/book/mattisg/construire-des-communs-numeriques).
+Vous pouvez lire ce livre [en ligne](https://communs.mattischneider.fr) ou le télécharger au format [PDF](../assets/construire_communs_numeriques_v1_2_0.pdf).
