@@ -1,6 +1,6 @@
 # Components of Digital Commons
 
-Comme on l'a vu, les services numériques doivent disposer de règles de mise en partage pour que la gouvernance résultante puisse les amener à être considérés comme des communs numériques.
+As we just saw, les services numériques doivent disposer de règles de mise en partage pour que la gouvernance résultante puisse les amener à être considérés comme des communs numériques.
 
 Plutôt que de donner un ensemble de règles prêtes à être appliquées de manière systématique, je décompose les services numériques en un ensemble de constituants et définis des contraintes qui encadrent le type de règles applicables sur chacun d'entre eux. Il s'agit ainsi d'une méta-méthodologie : il est impossible de donner des règles toutes prêtes pour chaque situation, mais il est possible de déterminer des contraintes que doivent remplir ces règles uniques pour que la gouvernance résultante puisse prétendre au statut de commun numérique.
 
