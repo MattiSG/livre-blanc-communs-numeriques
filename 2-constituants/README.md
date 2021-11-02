@@ -1,4 +1,4 @@
-# Constituants des communs numériques
+# Components of Digital Commons
 
 Comme on l'a vu, les services numériques doivent disposer de règles de mise en partage pour que la gouvernance résultante puisse les amener à être considérés comme des communs numériques.
 
