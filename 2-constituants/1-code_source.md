@@ -1,53 +1,53 @@
-## Code source
+## Source Code
 
-Les services numériques sont en premier lieu des logiciels. Même si on ne peut par définition pas les réduire à cette essence technique, leur première nature est l’exécution d’un code informatique. Ce code, dans une forme lisible et exécutable, est donc un constituant évident à mettre en partage.
+Digital services are primarily software. Even if by definition they cannot be reduced to this technical essence, their primary nature is the execution of computer code. This code, in a readable and executable form, is therefore an obvious component to share.
 
-### Licence libre
+### Free license
 
-Les règles applicables à un code source sont formalisées par des licences, c’est-à-dire des contrats par lequel le titulaire des droits d&#039;auteur définit les conditions dans lesquelles ce programme peut être utilisé, diffusé ou modifié. Certains types de licences, les licences libres, garantissent des droits au public : lecture, duplication, redistribution. Ces droits empêchent donc la réappropriation de l’existant.
+The rules applicable to a source code are set out in licenses, that is to say contracts by which the copyright holder defines the conditions under which this program may be used, distributed or modified. Certain types of licenses, such as free licenses, guarantee rights to the public: reading, duplication and redistribution. These rights therefore prevent the re-appropriation of the existing material.
 
-**Une contrainte minimale est la mise à disposition du code source sous une licence libre[^9].**
+**A minimum constraint is that the source code be made available under a free license[^9].**
 
-**Recommandation opérationnelle : utiliser une licence EUPL ou l’une des licences mentionnées à l’article [D323-2-1 du code des relations entre le public et l’administration (CRPA)](https://is.gd/rYk7h7).**
+**Operational recommendation: use an EUPL license or one of the licenses mentioned in article [D323-2-1 of the Code des relations entre le public et l'administration (CRPA)](https://is.gd/rYk7h7).**
 
-### Clause de repartage {#repartage}
+### Re-sharing clause {#re-sharing}
 
-Néanmoins, les communs numériques ne peuvent être réduits à un logiciel. Comme on l’a vu, leur spécificité provient de l’existence d’une _communauté_. C’est bien cette communauté rassemblée autour du logiciel qu’il faut préserver pour éviter la réappropriation, active ou par désertion de la communauté à l’exception d’un acteur.
+Nevertheless, the digital commons cannot be reduced to software. As we have seen, their specificity comes from the existence of a _community_. It is this community gathered around the software that must be preserved in order to avoid re-appropriation, either active or by desertion of the community except by one actor.
 
-La réappropriation active ne peut être empêchée que par la mise en œuvre d’une clause de repartage [Aigrin, 2002]. Une telle clause garantit que des améliorations apportées au logiciel sont mises à disposition de la communauté, en rendant obligatoire la publication des modifications du code source. En l’absence d’une telle clause, il suffit de reprendre le code source de logiciels constituant des communs numériques et d’y ajouter une fonctionnalité attirante pour les utilisateurs sans partager le code qui ajoute cette fonctionnalité [Aigrin, 2002] pour déplacer la communauté vers cette nouvelle version [Verdier &amp; Murciano, 2015] qui n’est plus gouvernée par un commun, vidant de ce fait les communs originaux de leur substance. Une licence de repartage est donc la plus adaptée au cas des communs contributifs.
+Active re-appropriation can only be prevented by the implementation of a re-sharing clause [Aigrin, 2002]. Such a clause ensures that improvements to the software are made available to the community, by making it mandatory to publish changes to the source code. In the absence of such a clause, simply taking the source code of software that are part of digital commons and adding a feature attractive to users without sharing the code that adds said feature [Aigrin, 2002] is enough to move the community to this new version [Verdier & Murciano, 2015]. The new version, no longer governed by a commons, thereby deprives the original commons of its substance. A re-sharing license is therefore the most suitable license for the contributory commons.
 
-**Pour le services contributifs, la licence inclut la mise à disposition du code source avec une clause de repartage.**
+**For contributory services, the license includes the provision of source code with a re-sharing clause.**
 
-**Recommandation opérationnelle : utiliser une licence Affero GNU Public License 3.**
+**Operational recommendation: use an Affero GNU Public License 3.**
 
-### Sollicitation des intégrations {#solliciter-integration}
+### Integration solicitation {#integration solicitation}
 
-Au-delà de l’usage, la capacité des usagers à contribuer au service doit être préservée. L’usage de licences libres garantit le droit de modifier le code, mais la contribution signifie également l’évaluation systématique de ces modifications et leur intégration chaque fois que cela s’avère pertinent. Sans cette capacité à contribuer, les logiciels libres ne sont qu’une nouvelle forme de monologue.
+Beyond usage, the ability of users to contribute to the service must be preserved. The use of free licenses guarantees the right to modify the code, but contribution also means the systematic evaluation of these modifications and their integration whenever relevant. Without this ability to contribute, open source software are just another form of monologue.
 
-**Une contrainte minimale est de fournir un moyen de solliciter l’intégration de modifications effectuées par un contributeur dans la base de code originelle.**
+**A minimum constraint is to provide a means of soliciting the integration of changes made by a contributor into the original code base.**
 
-**Recommandation opérationnelle : exploiter les outils spécialisés dans le développement collaboratif, qui fournissent une plateforme consolidée permettant à la fois la mise à disposition du code et la contribution de code et de suggestions d’améliorations, comme [Framagit](https://framagit.org/), [GitLab](https://about.gitlab.com) ou [GitHub](https://github.com).**
+**Operational recommendation: use tools that specialise in collaborative development, which provide a consolidated platform for both code availability and contribution of code, and suggestions for improvements, such as [Framagit](https://framagit.org/), [GitLab](https://about.gitlab.com) or [GitHub](https://github.com).**
 
-### Engagements sur les intégrations {#delai-traitement}
+### Commitments on integrations {#delay-processing}
 
-Au même titre que l’usage, la « contribuabilité » des communs ne saurait être mesurée par la seule capacité technique à solliciter l’intégration de modifications. Un contributeur dont les sollicitations ne sont jamais traitées sera rapidement frustré et cessera de contribuer, et la visibilité publique de cette absence de réponse en découragera d’autres.
+As with usage, the "contributability" of the commons cannot be measured solely by the technical capacity to request the integration of modifications. A contributor whose requests are never answered will quickly become frustrated and stop contributing, and the public visibility of this lack of response will discourage others.
 
-**Il est utile de prendre un engagement sur le délai de traitement[^10] des sollicitations d’intégration de modifications ainsi qu’une charte de communication[^11] avec les contributeurs potentiels, afin de garantir une atmosphère ouverte et engageante.**
+**It is useful to commit to a time frame for processing[^10] integration requests and to a communication charter[^11] with potential contributors, to ensure an open and engaging atmosphere.**
 
-**Recommandation opérationnelle : mettre en place et publier un règlement intérieur décrivant les modalités de gestion des sollicitations d’intégration de modifications[^12].**
+**Operational recommendation: establish and publish rules of procedure describing how to handle requests for integration of modifications[^12].**
 
-### Documentation opérationnelle {#ops}
+### Documentation of operations {#ops}
 
-Dans cet objectif également, les modalités techniques qui permettent l’opération du service, au sens de son administration système, devraient être également documentées et partagées au même titre que le code source : si une seule personne (physique ou morale) a connaissance de l’infrastructure nécessaire à l’opération du service, le risque de réappropriation est présent.
+Also with this objective in mind, the technical methods that allow the service to be operated, in terms of its system administration, should be documented and shared in the same way as the source code. Indeed, if just a single person (natural or legal) knows about the infrastructure needed to operate the service, there is a risk of re-appropriation.
 
-**Une contrainte minimale est la documentation des modalités d'opération technique du service.**
+**A minimum constraint is to provide documentation on the technical operation of the service.**
 
-**Recommandation opérationnelle : documenter de manière exécutable par le biais d’un [système de gestion de configuration](https://fr.wikipedia.org/wiki/Gestion_de_configuration_logicielle), qui permet de définir l’infrastructure comme du code.**
+**Operational recommendation: document in an executable way through a [configuration management system](https://fr.wikipedia.org/wiki/Gestion_de_configuration_logicielle), which allows the infrastructure to be defined as code.**
 
-[^9]: Liste exhaustive disponible sur [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
+[^9]: Exhaustive list available at [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
 
-[^10]: Le « traitement » ne signifie pas forcément l’intégration, mais au moins une première évaluation indiquant si la contribution est bienvenue, ou justifiant le refus de son intégration en fournissant des références permettant l’amélioration de futures contributions. Ce délai devra être le plus court possible : au-delà de quelques jours, le sentiment n’est plus celui d’une discussion, et on perd la communauté.
+[^10]: "Processing" does not necessarily mean integrating, but at least making an initial evaluation of whether the contribution is welcome, or justifying the rejection of its integration by providing references for improving future contributions. This delay should be as short as possible: beyond a few days, the feeling is no longer one of discussion, and the community is lost.
 
-[^11]: De telles chartes sont généralement dénommées _code of conduct_.
+[^11]: Such charters are generally referred to as _code of conduct_.
 
-[^12]: Voir également « comment reconnaître les contributions » en annexe.
+[^12]: See also "How to acknowledge contributions" in the appendix.

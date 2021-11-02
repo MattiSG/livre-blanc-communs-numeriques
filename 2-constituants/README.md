@@ -8,7 +8,7 @@ I therefore break down digital commons services into the following components, l
 
 > For example, a digital service which source code is under free software license but which brand can only be used by a single structure cannot be considered as a service under common administration.
 
-Beyond the basic constraints to be applied on the sharing rules to guarantee the sustainability of each of these components, I also define additional constraints for services which value depends on the capacity of their community to actively contribute. Indeed, in this case, the contribution capacity is directly correlated to the time invested by its members, and is therefore a competing resource.
+Beyond the basic constraints to be applied on the sharing rules to guarantee the sustainability of each of these components, I also define additional constraints for services for which the value depends on the capacity of their community to actively contribute. Indeed, in this case, the contribution capacity is directly correlated to the time invested by its members, and is therefore a competing resource.
 
 These constraints are summarised in the grid below, and are explained and detailed in the following pages.
 
