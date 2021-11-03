@@ -1,21 +1,21 @@
-## Moyens de communication
+# Communication
 
-Les usagers peuvent être mobilisés d’autres manières que dans leur usage habituel du service. On peut par exemple les solliciter pour contribuer ponctuellement aux communs numériques dont ils forment la communauté, pour les promouvoir ou encore pour procéder à un arbitrage référendaire[^19]. La capacité de représentation vis-à-vis des contributeurs, des usagers et du public, dans la mesure où elle détermine en grande partie la capacité de contribution et donc le type et l’intensité de la valeur capturée, doit être considérée comme un constituant des services numériques dont la réappropriation par un sous-ensemble de la communauté ou par un tiers mettrait en risque l’opération en commun[^20].
+Users can be engaged in other ways than their standard use of the service. For example, they can be called upon to contribute to the digital commons for which they are part of the community, to promote them, or to carry out a referendum arbitration\[^19]. The capacity of representation towards contributors, users and the public, largely determines the capacity to contribute and thus the type and intensity of the value that is collected. Therefore, this capacity of representation should be considered as a component of digital services which, if re-appropriated by a subset of the community or by a third party, could compromise their operation as a common\[^20].
 
-### Contact de la communauté
+## Contact with the community
 
-**Une contrainte minimale est la mise à disposition de tous les contributeurs de moyens de diffuser des informations à la communauté, tout en garantissant un volume limité de sollicitations afin de maximiser la valeur potentielle.**
+**A minimum constraint is to provide all contributors with the means to send information to the community, while limiting the amount of solicitations in order to maximise the potential value.**
 
-**Recommandation opérationnelle : permettre aux usagers de fournir leur adresse électronique, les enregistrer dans un outil de diffusion compatible avec le droit européen sur les données personnelles comme [SendInBlue](https://fr.sendinblue.com) ou [Framalistes](https://framalistes.org) et s’engager envers les personnes inscrites sur une fréquence maximale d’envoi (1 fois par mois, par semaine…). Mettre à disposition des contributeurs un espace de rédaction collaborative comme [Framapad](https://framapad.org) pour préparer les envois.**
+**Operational recommendation: allow users to submit their email address, register them in a mailing tool compatible with European law on personal data such as **[**SendInBlue**](https://fr.sendinblue.com)** or **[**Framalistes**](https://framalistes.org)** and commit to a maximal frequency of mailing (once a month, once a week...). Provide contributors with a collaborative writing space such as **[**Framapad**](https://framapad.org)** to prepare the mailings.**
 
-### Communication extérieure {#ouvrir-diffusion}
+## External communication <a href="open-broadcast" id="open-broadcast"></a>
 
-En plus des messages directs, les outils de diffusion que sont les réseaux sociaux peuvent permettre de toucher un public large, pouvant aller au-delà des usagers et des contributeurs. Là encore, la capacité à toucher ce public doit être mise en partage.
+In addition to direct messages, the broadcasting tools that are social networks can make it possible to reach a large audience, which can go beyond users and contributors. Again, the ability to reach this audience must be shared.
 
-**Un commun contributif inclut la mise à disposition des contributeurs de moyens de contacter le public, tout en garantissant une forte pertinence des messages diffusés.**
+**A contributive commons should provide contributors with means to contact the public, while ensuring that the broadcast messages are highly relevant.**
 
-**Recommandation opérationnelle : rédiger une charte rédactionnelle ([exemple](https://github.com/betagouv/aides-jeunes/wiki/Notre-ton)), utiliser un système de délégation de compte pour chaque média social utilisé par le service (TweetDeck pour Twitter, Business Manager pour Facebook…) et faire certifier le compte social par l’opérateur du réseau.**
+**Operational recommendation: draft an editorial charter (**[**example**](https://github.com/betagouv/aides-jeunes/wiki/Notre-ton)**), use an account delegation system for each social media used by the service (TweetDeck for Twitter, Business Manager for Facebook...) and have the social account certified by the network operator.**
 
-[^19]: On pensera notamment à [CarbonVote](http://v1.carbonvote.com), le vote sur le [hard fork de la DAO d’Ethereum](https://www.ethereum-france.com/le-hard-fork-the-dao-aura-bien-lieu-mode-demploi/).
+\[^19]: These include [CarbonVote](http://v1.carbonvote.com), the \[Ethereum DAO hard fork] vote(https://www.ethereum-france.com/le-hard-fork-the-dao-aura-bien-lieu-mode-demploi/).
 
-[^20]: Bien qu'en dehors du cas spécifique des communs numériques, l’exemple des moyens de communication conservés par l'ancien président de l'association Objectif Train de Nuit à la suite d'un renouvellement de bureau par une assemblée générale contestée mène cette structure à avoir deux organes de gouvernance concurrents, chacun prétendant être l'officiel.
+\[^20]: Although outside the specific case of the digital commons, the example of the means of communication retained by the former president of the association Objectif Train de Nuit, following a renewal of the board by a contested general assembly, leads this structure to have two competing governance bodies, each claiming to be the official one.
