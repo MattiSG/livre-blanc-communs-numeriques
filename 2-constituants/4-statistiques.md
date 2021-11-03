@@ -10,7 +10,7 @@ Service usage statistics, if collected, should therefore be made available under
 
 **A minimal common should make available the usage statistics for each feature of the service under a license that allows re-use.**
 
-**Operational Guidance: display a public instance of the Matomo (or Xiti) tracking service, **[**configured**](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience)** in compliance with CNIL regulations. Specify that the data offered by this instance is available under an open license.**
+**Operational recommendation: display a public instance of the Matomo (or Xiti) tracking service, **[**configured**](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience)** in compliance with CNIL regulations (or a similar institution of regulation). Specify that the data offered by this instance is available under an open license.**
 
 ## Copyleft Clause <a href="open-stats-sharing" id="open-stats-sharing"></a>
 

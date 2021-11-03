@@ -8,15 +8,15 @@ The rules applicable to a source code are set out in licenses, that is to say co
 
 **A minimum constraint is that the source code be made available under a free license\[^9].**
 
-**Operational recommendation: use an EUPL license or one of the licenses mentioned in article **[**D323-2-1 of the Code des relations entre le public et l'administration (CRPA)**](https://is.gd/rYk7h7)**.**
+**Operational recommendation: use an EUPL license or one of the licenses mentioned in article **[**D323-2-1 of the Code des relations entre le public et l'administration (CRPA)**](https://is.gd/rYk7h7)**. These licenses are adapted but not limited to a european context.**
 
-## Re-Sharing Clause <a href="re-sharing" id="re-sharing"></a>
+## Copyleft Clause <a href="re-sharing" id="re-sharing"></a>
 
 Nevertheless, the digital commons cannot be reduced to software. As we have seen, their specificity comes from the existence of a _community_. It is this community gathered around the software that must be preserved in order to avoid re-appropriation, either active or by desertion of the community except by one actor.
 
-Active re-appropriation can only be prevented by the implementation of a re-sharing clause \[Aigrin, 2002]. Such a clause ensures that improvements to the software are made available to the community, by making it mandatory to publish changes to the source code. In the absence of such a clause, simply taking the source code of software that are part of digital commons and adding a feature attractive to users without sharing the code that adds said feature \[Aigrin, 2002] is enough to move the community to this new version \[Verdier & Murciano, 2015]. The new version, no longer governed by a commons, thereby deprives the original commons of its substance. A re-sharing license is therefore the most suitable license for the contributory commons.
+Active re-appropriation can only be prevented by the implementation of a copyleft clause \[Aigrin, 2002]. Such a clause ensures that improvements to the software are made available to the community, by making it mandatory to publish changes to the source code. In the absence of such a clause, simply taking the source code of software that are part of digital commons and adding a feature attractive to users without sharing the code that adds said feature \[Aigrin, 2002] is enough to move the community to this new version \[Verdier & Murciano, 2015]. The new version, no longer governed by a commons, thereby deprives the original commons of its substance. A copyleft license is therefore the most suitable license for the contributory commons.
 
-**For contributory services, the license includes the provision of source code with a re-sharing clause.**
+**For contributory services, the license includes the provision of source code with a copyleft clause.**
 
 **Operational recommendation: use an Affero GNU Public License 3.**
 
