@@ -1,13 +1,13 @@
-## Marque
+# Brand
 
-Au-delà des contributeurs et de la communauté d’usagers, un troisième cercle d’interaction des communs numériques existe vis-à-vis du grand public. Ces interactions ont lieu non pas directement avec le service (sinon il s’agirait d’usagers), mais avec une marque, qui peut être constituée d’un nom, d’un logo, d’un nom de domaine, d’une charte graphique… Les marques représentent le capital réputationnel des communs numériques. Pour être compatibles avec ce statut, leur bénéfice doit donc être mis en partage et défendu sans réappropriation, comme les autres formes de capital.
+Besides the contributors and the community of users, there is a third circle of interaction for digital commons with the general public. These interactions do not take place directly with the service (otherwise they would be users), but with a brand, which can be a name, a logo, a domain name, a graphic design… Brands represent reputational assets for the digital commons. To be consistent with this status, their benefits must therefore be shared and protected without re-appropriation, like other kinds of assets.
 
-### Mise à disposition {#charte}
+## Availability <a href="charter" id="charter"></a>
 
-La mise à disposition des éléments constitutifs de la marque est particulièrement importante dans le cas des communs contributifs, puisque l'orientation des contributions se fera en premier lieu par l'usage de ces éléments. Si un acteur a la mainmise sur eux, il pourra réorienter les contributions vers son propre service, potentiellement non opéré comme commun.
+Providing the elements that make up the brand is particularly important in the case of contributive commons, since the contributions will be oriented in the first place by the use of these elements. If an actor has control over them, he will be able to re-direct the contributions towards his own service which may not be operated as a common.
 
-**Dans le cas d'un service contributif, les éléments constitutifs de la marque sont protégés juridiquement et mis à libre disposition sous condition du respect d’une charte visant uniquement à protéger le capital réputationnel des communs et non un acteur en particulier.**
+**In the case of a contributive commons service, the elements making up the brand are legally protected and freely available, provided that they comply with a charter aimed solely at protecting the reputational capital of the commons and not a particular actor.**
 
-**Recommandation opérationnelle : fournir tous les éléments de marque sur un page web, les [déposer à l’INPI](https://www.inpi.fr/fr/services-et-prestations/depot-de-marque-en-ligne)[^20] et adapter la [Politique de marque de Wikipédia](https://meta.wikimedia.org/wiki/Trademark_policy/fr#policy) pour définir les cas d’usage recommandés et ceux défendus. Les cas défendus sont justifiés par l’explicitation du danger qu’il ferait peser sur le capital réputationnel.**
+**Operational recommendation: provide all trademark elements on a web page, register them with national patent office\[^20] and adapt the **[**Wikipedia Trademark Policy**](https://meta.wikimedia.org/wiki/Trademark\_policy/fr#policy)** to define recommended and prohibited use cases. The prohibited cases should be justified by highlighting the potential danger to reputation assets.**
 
-[^20]: Ce dépôt n’est pas nécessaire pour protéger d’un dépôt concurrent dans la mesure où le service est disponible publiquement et que l’antériorité sera donc facile à démontrer. Ce dépôt dissuade les acteurs mal intentionnés, facilite le transfert de la propriété intellectuelle à une autre structure, et valorise la structure déposante qui a plus de chances de considérer le service comme un capital à entretenir.
+\[^20]: This registration is not necessary to protect against a competing registration as the service is publicly available and anteriority will therefore be easy to demonstrate. This registration deters ill-intentioned parties, facilitates the transfer of the intellectual property to another structure, and enhances the value of the registering structure which is more likely to consider the service as a capital to be maintained.
