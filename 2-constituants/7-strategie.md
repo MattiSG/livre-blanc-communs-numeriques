@@ -1,27 +1,27 @@
-## Stratégie d'investissement
+# Strategy
 
-Au-delà de la limitation des risques de réappropriation des moyens de produire de la valeur, se pose la question des modalités d’engagement des ressources déjà mises en commun.
+As well as limiting the risks of re-appropriation of the means of producing value, there is the question of how to engage resources already shared.
 
-### Publication des demandes d'évolution {#ouvrir-demandes}
+## Publishing Improvement Requests <a href="open-requests" id="open-requests"></a>
 
-Dans le cadre d’une gouvernance démocratique, la feuille de route générale du service est théoriquement basée sur les besoins exprimés de la communauté. Pour autant, des arbitrages doivent être menés sur la base des ressources disponibles. Si ces arbitrages avantagent systématiquement un certain type d’acteur, il y a réappropriation de fait des ressources mises en commun dans la mesure où, dans le temps, le service numérique apportera une valeur croissante à certains usagers aux dépens de ceux pour lesquels l’investissement n’a pas pu être effectué. Les modalités de définition des orientations stratégiques doivent donc être considérées comme un constituant du service et soumises à une gouvernance adaptée.
+In the context of democratic governance, the general roadmap of the service is theoretically based on the needs expressed by the community. However, arbitrations must be carried out on the basis of available resources. If these arbitrations systematically favour a certain type of stakeholder, there is a _de facto_ re-appropriation of the shared resources in the sense that, over time, the digital service will bring increasing value to certain users at the expense of those for whom the investment could not be made. The way in which strategic orientations are defined should therefore be considered as a component of the service and subject to appropriate governance.
 
-**Une contrainte minimale est la publication des demandes d'évolution provenant des usagers.**
+**A minimum constraint is the publication of users' requests for evolution.**
 
-**Recommandation opérationnelle : consolider les retours usager soit directement dans la forge logicielle utilisée par le biais de « tickets » ou « issues », soit sur un outil dédié.**
+**Operational recommendation: consolidate user feedback either directly into the software forge through "tickets" or "issues", or through a dedicated tool**.
 
-### Publication des moyens disponibles {#ouvrir-moyens}
+## Publishing Available Resources <a href="open-means" id="open-means"></a>
 
-Afin de permettre à la communauté de participer correctement à l’arbitrage entre les besoins et les moyens, les ressources limitées et mesurables doivent être accessibles au moins à la communauté, comme par exemple les moyens financiers de la structure qui opère le service.
+In order to allow the community to participate properly in the arbitration between needs and means, limited and measurable resources must be accessible at least to the community, as for example the financial means of the structure which operates the service.
 
-**Une contrainte minimal est la publication des moyens investis et disponibles pour l'évolution.**
+**A minimum constraint is the publication of the means invested and available for the evolution of the service.**
 
-**Recommandation opérationnelle : publier un document budgétaire passé et prévisionnel des moyens investis dans le service.**
+**Operational recommendation: publish a budget document of the past and planned means invested in the service.**
 
-### Documentation des arbitrages {#arbitrages}
+## Documenting Arbitrations <a href="arbitrations" id="arbitrations"></a>
 
-Les modalités d’arbitrage sur la base de ces informations, elles, peuvent être synchrones de type assemblée générale, être déléguées à des mandataires élus, ou encore se reposer sur des outils de décision asynchrones et distribués. Elles doivent dans tous les cas être décrites publiquement et, si l’entité qui opère le service s’est constituée en une structure morale, dans un document statutaire ou règlementaire.
+The arbitration procedures based on this information may be synchronous, such as a general assembly, delegated to elected representatives, or based on asynchronous and shared decision-making tools. In all cases, they must be described publicly and, if the entity operating the service has formed a legal structure, in a statutory or regulatory document.
 
-**Une contrainte minimale est la description des modalités de choix d'investissement des moyens disponibles.**
+**A minimum constraint is the description of how the available resources are to be invested.**
 
-**Recommandation opérationnelle : pour maximiser la participation sans contrainte géographique ni temporelle, privilégier les outils de décision asynchrones et distribués comme [Loomio](https://www.loomio.org) et des réunions d'information a minima enregistrées et diffusées.**
+**Operational recommendation: to maximise participation without geographical or time constraints, favour asynchronous and shared decision-making tools such as **[**Loomio**](https://www.loomio.org)** and information meetings that are at least recorded and broadcast.**
