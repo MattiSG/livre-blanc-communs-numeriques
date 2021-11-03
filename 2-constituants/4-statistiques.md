@@ -1,21 +1,21 @@
-## Statistiques d'usage
+# Usage Statistics
 
-Au-delà des données fournies volontairement par les usagers, de la valeur peut être extraite par le simple suivi des interactions avec le service numérique. Une analyse statistique descriptive peut en effet permettre d’améliorer la valeur fournie par le service en aidant à déterminer les fonctionnalités à renforcer, celles à améliorer, et celles à abandonner. Étendre des communs numériques sans connaître leur usage revient à étendre un réseau routier sur la simple base de sa carte, sans jamais avoir pu en voir la fréquentation.
+Beyond the data willingly provided by users, value can be extracted by simply monitoring interactions with the digital service. A descriptive statistical analysis can indeed improve the value provided by the service as it can help to determine which features should be strengthened, improved, or abandoned. Expanding digital commons without knowing how they are used is like expanding a road network based solely on its map, without ever getting to see how people use it.
 
-Par ailleurs, si ces données ne sont pas mises en partage, un acteur spécifique peut les financiariser sans nécessairement reverser à la communauté qui rend possible l’exécution du service.
+Moreover, if this data is not shared, a specific actor can make money from it without necessarily paying back the community that makes the service work.
 
-### Publication
+## Publishing
 
-Les statistiques de fréquentation du service, si elles sont capturées, devraient donc être mises à disposition sous une licence qui en permet la réutilisation.
+Service usage statistics, if collected, should therefore be made available under a license that allows their re-use.
 
-**Un commun minimal inclut la mise à disposition des statistiques de fréquentation de chaque fonctionnalité du service sous une licence qui en permet la réutilisation.**
+**A minimal common should make available the usage statistics for each feature of the service under a license that allows re-use.**
 
-**Recommandation opérationnelle : exposer une instance publique du service de suivi Matomo (ou Xiti), [configurée](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience) en conformité avec la règlementation CNIL. Préciser que les données offertes par cette instance sont à disposition sous Licence ouverte.**
+**Operational Guidance: display a public instance of the Matomo (or Xiti) tracking service, **[**configured**](https://www.cnil.fr/fr/solutions-pour-la-mesure-daudience)** in compliance with CNIL regulations. Specify that the data offered by this instance is available under an open license.**
 
-### Clause de repartage {#ouvrir-stats-repartage}
+## Copyleft Clause <a href="open-stats-sharing" id="open-stats-sharing"></a>
 
-Néanmoins, une réappropriation devient possible si un opérateur mal intentionné les met à disposition dans un format peu lisible et se conserve l’exclusivité d’une chaîne d’analyse permettant d’en extraire la valeur en les recoupant avec des bases propriétaires. Pour empêcher cela, si la base de données contient des informations détaillées, elle peut être fournie avec une clause de repartage. Ainsi, tout produit dérivé de cette base devrait lui aussi être rendu public et sera donc accessible à la communauté.
+Nevertheless, re-appropriation becomes possible if an ill-intentioned operator makes them available in a poorly readable format and keeps the exclusive right to use an analysis chain to extract value by cross-checking them with proprietary databases. To prevent this, if the database contains detailed information, it can be provided with a copyleft clause. Thus, any product derived from the database should also be made public and therefore accessible to the community.
 
-**Il est utile que la licence de publication des statistiques de fréquentation comprenne une clause de repartage.**
+**It is useful to have a copyleft clause in the publication license for usage statistics.**
 
-**Recommandation opérationnelle : dans la recommandation précédente, utiliser une licence ODbL au lieu d’une Licence ouverte.**
+**Operational recommendation: in the previous recommendation, use an ODbL license instead of an Open License.**
