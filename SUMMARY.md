@@ -8,7 +8,7 @@
 * [Components](2-constituants/README.md)
   * [Code source](2-constituants/1-code\_source.md)
   * [Usage](2-constituants/2-usage.md)
-  * [Données](2-constituants/3-donnees.md)
+  * [Data](2-constituants/3-donnees.md)
   * [Statistiques](2-constituants/4-statistiques.md)
   * [Communication](2-constituants/5-communication.md)
   * [Marque](2-constituants/6-marque.md)
