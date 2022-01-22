@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Note d’intention](README.md)
+* [Note of intent](README.md)
 * [Concepts](1-concepts/README.md)
   * [Commun(s)](1-concepts/1-communs.md)
   * [Action publique](1-concepts/2-action\_publique.md)
@@ -30,7 +30,7 @@
 * [Métaphores](annexes/3-metaphores.md)
 * [Références](annexes/4-references.md)
 
-## Meta <a href="meta-1" id="meta-1"></a>
+## Meta <a href="#meta-1" id="meta-1"></a>
 
 * [English abstract](meta/english-abstract.md)
 * [Remerciements](meta/remerciements.md)
