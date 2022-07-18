@@ -13,7 +13,7 @@
   * [Communication](2-constituants/5-communication.md)
   * [Brand](2-constituants/6-marque.md)
   * [Strategy](2-constituants/7-strategie.md)
-* [Rôles](3-roles/README.md)
+* [Roles](3-roles/README.md)
   * [Communauté](3-roles/1-communaute.md)
   * [Contributeur](3-roles/2-contributeur.md)
   * [Opérateur](3-roles/3-operateur.md)
