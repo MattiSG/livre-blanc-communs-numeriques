@@ -1,52 +1,50 @@
-## Opérateur
+# Operator
 
-Ce rôle vise notamment à organiser et fédérer les contributions. Pour différencier le rôle des [contributeurs](2-contributeur) de celui de l'opérateur, la liste des [constituants](../2-constituants) peut encore une fois servir de base pour décrire des actions menées par chacun de ces acteurs.
+This role aims in particular at organising and bringing together the contributions. To differentiate the role of the [contributors](2-contributeur/) from that of the operator, the list of [components](../2-constituants/) can once again serve as a basis for describing the actions carried out by each of these stakeholders.
 
-| Constituant   | Actions des contributeurs                                            | Actions de l'opérateur                                                                            |
-|---------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| Code source   | Pull request, peer review.                                           | Gatekeeping (tri, feedback, validation, intégration).                                             |
-| Usage         | Utilisation du logiciel.                                             | Support.                                                                                          |
-| Données       | Utilisation du logiciel.                                             | Promotion (concours…).                                                                            |
-| Statistiques  | Utilisation du logiciel.                                             | Analyse et éditorialisation.                                                                      |
-| Communication | Animation d’ateliers, création de contenu, inscriptions aux réseaux… | Product management, community management.                                                         |
-| Marque        | Promotion publique (publicité, présentations, articles…).            | Mise en relation, démarchage d’espaces de promotion, soutien financier à des initiatives locales… |
-| Stratégie     | Remontée d'anomalies, suggestions, vote.                             | Ateliers, recherche utilisateur, RFC.                                                             |
+| Component        | Contributors' actions                                             | Operator's actions                                                                          |
+| ---------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Source Code      | Pull request, peer review.                                        | Gatekeeping (sorting out, feedback, validation, integration).                               |
+| Terms            | Software usage.                                                   | Support.                                                                                    |
+| User Data        | Software usage.                                                   | Promotion (competition…).                                                                   |
+| Usage Statistics | Software usage.                                                   | Analysis and publishing overview.                                                           |
+| Communication    | Workshop facilitation, content creation, network registrations... | Product management, community management.                                                   |
+| Brand            | Public promotion (advertising, presentations, articles...).       | Setting up contacts, finding promotional spaces, financial support for local initiatives... |
+| Strategy         | Feedback on anomalies, suggestions, vote.                         | Workshop, user research, RFC.                                                               |
 
-### Risques adressés par le rôle
+## Risks addressed by the role
 
-#### Inaccessibilité {#inaccessibilite}
+### Inaccessibility <a href="#inaccessibilite" id="inaccessibilite"></a>
 
-La mise en partage des ressources ne peut être opérante que si lesdites ressources sont accessibles. Qui garantit la disponibilité du commun ? Par quels moyens ?
+Resource sharing can only be effective if the resources are accessible. Who guarantees the availability of the commons? By what means?
 
-**Un rôle de responsabilité opérationnelle du commun doit être tenu, avec des droits de gestion d’accès et de rationnement temporaire pour garantir un accès à tous les membres de la communauté.** {#role-operationnel}**
+**A role of operational responsibility for the commons must be held, with access management and temporary suspension rights to ensure continued access for all members of the community.**
 
-#### Stagnation stratégique {#stagnation}
+### Stagnation <a href="#stagnation" id="stagnation"></a>
 
-La feuille de route générale du service est basée sur les besoins de la communauté. Néanmoins, des arbitrages doivent être menés sur la base des ressources disponibles. Comment arbitrer la [stratégie](../2-constituants/7-strategie), ou du moins en faciliter l'établissement, si la communauté n'y arrive pas, en évitant le point mort ?
+The service's general roadmap is based on the needs of the community. However, arbitrations have to be made on the basis of available resources. How can the [strategy](../2-constituants/7-strategie.md) be arbitrated, or at least facilitated, if the community is not able to do so, without coming to a deadlock?
 
-**Un rôle de responsabilité de produit (_product ownership_) doit être tenu, avec un droit d’arbitrage final entre la mise en œuvre de fonctionnalités incompatibles dans leurs effets ou dans leur consommation de ressources.**
+**A role of product ownership must be held, with a right to make final arbitration on implementing functionalities which are incompatible in terms of effects or resource consumption.**
 
-#### Illégalité des contributions {#illegalite-contributions}
+### Illegality of contributions <a href="#illegalite-contributions" id="illegalite-contributions"></a>
 
-Dans le cas des communs contributifs, il peut arriver que du contenu soit mis à disposition en infraction avec le droit. Comment agir pour éteindre le grief ? Qui décide du retrait des contributions ? Qui porte la responsabilité juridique et potentiellement pénale de la mise à disposition ?
+In the case of contributory commons, it may happen that content is made available outside of the law. How to handle and extinguish complaints? Who takes the decision to withdraw the contributions? Who bears the legal and potentially criminal responsibility for making the content available?
 
-**Un rôle d'organisation des contributions et de représentation juridique du commun doit être tenu.**
+**A role of organising the contributions and legal representation of the commons must be held.**
 
-#### Critique
+### Criticism
 
-Comme tout service, les communs numériques peuvent être critiqués. Certaines critiques peuvent aller jusqu’à mettre en danger leur capital réputationnel, notamment lorsqu’elles remettent en question leur probité ou leur coût plus que leur utilité. Qui répond aux critiques ? Comment décider auxquelles répondre ?
+Like any service, the digital commons can be criticised. Some criticism can go so far as to jeopardise their reputational capital, particularly when it questions their probity or cost rather than their usefulness. Who addresses these criticisms? How to decide which ones should be addressed?&#x20;
 
-**Un rôle de représentation du commun doit être tenu.**
+**A role of representation of the commons must be held.**
 
-### Forme juridique
+## Legal Form
 
-Dans les communs numériques émergents ou d'envergure limitée, ce rôle peut être tenu directement par certains contributeurs. Néanmoins, le mélange des rôles est délicat et rarement soutenable car il mène les contributeurs portant cette responsabilité supplémentaire à une charge de travail supplémentaire, souvent différente de celle qu'ils mènent habituellement, et qui peut les mettre dans des situations d'arbitrage délicates entre leurs propres contributions et celles d'autres personnes.
+In emerging or small-scale digital commons, this role may be held directly by some contributors. However, mixing roles is tricky and rarely sustainable as it leads contributors with this additional responsibility to an additional workload, often different from the one they usually carry out, and which can put them in situations of difficult arbitration between their own contributions and those of others.
 
-En termes de structure, un bon acteur pour tenir ce rôle a une capacité économique pour engager des dépenses et s’ajuster rapidement aux besoins. L’alignement entre gestion et objectifs est supervisé par le [garant](./4-garant).
+In terms of structure, a good stakeholder for this role has the economic capacity to make expenses and adjust quickly to needs. Matching of management and objectives is supervised by the [guardian](4-garant.md).
 
-Il peut par exemple prendre la forme de :
+For example, it can take the form of:
 
-- SCIC.
-- Association à activité économique.
-- EPIC.
-- [SEM](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_d%27%C3%A9conomie_mixte), [SPL](https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_publique_locale).
+* Co-op.
+* Association with commercial activity.
