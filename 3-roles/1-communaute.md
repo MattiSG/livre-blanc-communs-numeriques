@@ -1,8 +1,8 @@
 # Community
 
-The community of users to the digital commons is always the ultimate decision maker. The ways in which it expresses itself are to be determined by each commons.
+The community of users of the digital commons is always the ultimate decision maker. The ways in which the community expresses itself are to be determined by each commons.
 
-The various roles that enable the common to be applied must themselves be subject to scrutiny to ensure that they apply it. The most legitimate body to do this is the community as a whole.
+The various roles that enable the common to be applied must themselves be subject to scrutiny to ensure that they apply it. The most legitimate body to scrutinise is the community as a whole.
 
 ## Risks addressed by the role
 
