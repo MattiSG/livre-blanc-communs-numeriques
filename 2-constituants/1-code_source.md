@@ -8,9 +8,9 @@ The rules applicable to a source code are set out in licenses, that is to say co
 
 **A minimum constraint is that the source code be made available under a free license\[^9].**
 
-**Operational recommendation: use an EUPL license or one of the licenses mentioned in article **[**D323-2-1 of the Code des relations entre le public et l'administration (CRPA)**](https://is.gd/rYk7h7)**. These licenses are adapted but not limited to a european context.**
+**Operational recommendation: use an EUPL license or one of the licenses mentioned in article** [**D323-2-1 of the Code des relations entre le public et l'administration (CRPA)**](https://is.gd/rYk7h7)**. These licenses are adapted but not limited to a european context.**
 
-## Copyleft Clause <a href="re-sharing" id="re-sharing"></a>
+## Copyleft Clause <a href="#re-sharing" id="re-sharing"></a>
 
 Nevertheless, the digital commons cannot be reduced to software. As we have seen, their specificity comes from the existence of a _community_. It is this community gathered around the software that must be preserved in order to avoid re-appropriation, either active or by desertion of the community except by one actor.
 
@@ -20,15 +20,15 @@ Active re-appropriation can only be prevented by the implementation of a copylef
 
 **Operational recommendation: use an Affero GNU Public License 3.**
 
-## Integrating Solicitation <a href="integration-solicitation" id="integration-solicitation"></a>
+## Integrating Solicitation <a href="#integration-solicitation" id="integration-solicitation"></a>
 
 Beyond usage, the ability of users to contribute to the service must be preserved. The use of free licenses guarantees the right to modify the code, but contribution also means the systematic evaluation of these modifications and their integration whenever relevant. Without this ability to contribute, open source software are just another form of monologue.
 
 **A minimum constraint is to provide a means of soliciting the integration of changes made by a contributor into the original code base.**
 
-**Operational recommendation: use tools that specialise in collaborative development, which provide a consolidated platform for both code availability and contribution of code, and suggestions for improvements, such as **[**Framagit**](https://framagit.org)**, **[**GitLab**](https://about.gitlab.com)** or **[**GitHub**](https://github.com)**.**
+**Operational recommendation: use tools that specialise in collaborative development, which provide a consolidated platform for both code availability and contribution of code, and suggestions for improvements, such as** [**Framagit**](https://framagit.org/)**,** [**GitLab**](https://about.gitlab.com) **or** [**GitHub**](https://github.com)**.**
 
-## Commitments on Integrations <a href="delay-processing" id="delay-processing"></a>
+## Commitments on Integrations <a href="#delay-processing" id="delay-processing"></a>
 
 As with usage, the "contributability" of the commons cannot be measured solely by the technical capacity to request the integration of modifications. A contributor whose requests are never answered will quickly become frustrated and stop contributing, and the public visibility of this lack of response will discourage others.
 
@@ -36,13 +36,13 @@ As with usage, the "contributability" of the commons cannot be measured solely b
 
 **Operational recommendation: establish and publish rules of procedure describing how to handle requests for integration of modifications\[^12].**
 
-## Documentating Operations <a href="ops" id="ops"></a>
+## Documentating Operations <a href="#ops" id="ops"></a>
 
 Also with this objective in mind, the technical methods that allow the service to be operated, in terms of its system administration, should be documented and shared in the same way as the source code. Indeed, if just a single person (natural or legal) knows about the infrastructure needed to operate the service, there is a risk of re-appropriation.
 
 **A minimum constraint is to provide documentation on the technical operation of the service.**
 
-**Operational recommendation: document in an executable way through a **[**configuration management system**](https://fr.wikipedia.org/wiki/Gestion\_de\_configuration\_logicielle)**, which allows the infrastructure to be defined as code.**
+**Operational recommendation: document in an executable way through a** [**configuration management system**](https://fr.wikipedia.org/wiki/Gestion\_de\_configuration\_logicielle)**, which allows the infrastructure to be defined as code.**
 
 \[^9]: Exhaustive list available at [opensource.org/licenses/alphabetical](http://opensource.org/licenses/alphabetical).
 

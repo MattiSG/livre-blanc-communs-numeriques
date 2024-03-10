@@ -1,21 +1,21 @@
-## Sponsor
+# Sponsor
 
-Certaines organisations peuvent soutenir le service numérique commun sans y contribuer directement, par exemple de manière financière par le don ou la subvention, ou par la réputation en promouvant les usages de l’outil.
+Some organisations may support the digital commons without contributing directly to it, for example financially through a donation or grant, or through reputation by promoting the tool's uses.
 
-### Risques adressés par le rôle
+## Risks addressed by the role
 
-#### Manque de moyens
+### Lack of means
 
-Si le service numérique commun n'a pas de modèle économique propre, l'absence de sponsors peut lui être fatale puisque le rôle d'[opérateur](./3-operateur) est difficile à tenir sans rétribution financière. Dans le cas des communs contributifs, l'absence d'opérateur rend l'édifice extrêmement fragile puisque la disponibilité du service n'est pas garantie, mettant en péril la capture de valeur par la contribution des [usagers](./1-communaute), et donc in fine la fourniture du service elle-même.
+If the digital commons does not have its own business model, the absence of sponsors can be fatal since the role of [operator](3-operateur.md) is difficult to fulfill without financial remuneration. In the case of contributory commons, the absence of an operator makes the structure extremely fragile since the availability of the service is not guaranteed. This puts at risk the capture of value by the [users](1-communaute/)' contributions, and therefore ultimately the provision of the service itself.
 
-### Forme juridique
+## Legal Form
 
-Ces organisations peuvent être de différents types :
+These organisations can be of different natures:
 
-- [Acteur public](../1-concepts/2-action_publique).
-- Acteurs à but non-lucratif de droit privé (association, fondation…).
-- Acteurs à but lucratif de droit privé.
+* [Public stakeholders.](../1-concepts/2-action\_publique/)
+* Non-profit stakeholders under private law (associations, foundations, etc.).&#x20;
+* Profit-making stakeholders under private law.
 
-### Rétribution
+## Retribution
 
-Tout comme pour les contributeurs, il est utile pour la pérennité de leur soutien que les sponsors se sentent reconnus pour leur participation. Dans tous les cas, ils peuvent être rétribués en réputation par la mise en avant de leur nom et logo. Ils peuvent également être rétribués en pouvoir décisionnel par une participation à certains organes de gouvernance. Dans ce cas, il faut faire attention au respect du commun afin de s'assurer que le soutien ne prenne pas plus d'importance que la contribution.
+As with contributors, it is useful for the sustainability of their support that sponsors feel acknowledged for their participation. In all cases, they can be rewarded in terms of reputation by having their name and logo put forward. They can also be rewarded with decision-making power through participation in certain governance bodies. In this case, care must be taken to respect the commons to ensure that the support does not outweigh the contribution.
