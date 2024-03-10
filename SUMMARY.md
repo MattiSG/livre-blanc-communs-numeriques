@@ -2,7 +2,7 @@
 
 * [Note of intent](README.md)
 * [Concepts](1-concepts/README.md)
-  * [Commun(s)](1-concepts/1-communs.md)
+  * [Common(s)](1-concepts/1-communs.md)
   * [Public action](1-concepts/2-action\_publique.md)
   * [Numérique](1-concepts/3-numerique.md)
 * [Components](2-constituants/README.md)
