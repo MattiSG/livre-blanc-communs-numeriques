@@ -17,7 +17,7 @@
   * [Communauté](3-roles/1-communaute.md)
   * [Contributeur](3-roles/2-contributeur.md)
   * [Opérateur](3-roles/3-operateur.md)
-  * [Garant](3-roles/4-garant.md)
+  * [Guardian](3-roles/4-garant.md)
   * [Sponsor](3-roles/5-sponsor.md)
 
 ## Annexes
