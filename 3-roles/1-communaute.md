@@ -1,21 +1,21 @@
-## Communauté
+# Community
 
-La communauté des utilisateurs des communs numériques est toujours l’ultime décisionnaire. Les modalités de son expression sont à déterminer par chaque commun.
+The community of users to the digital commons is always the ultimate decision maker. The ways in which it expresses itself are to be determined by each commons.
 
-Les différents rôles permettant l’application du commun doivent être eux-mêmes soumis à un examen attentif pour garantir qu’ils l’appliquent. L’instance la plus légitime pour ce faire est l’ensemble de la communauté.
+The various roles that enable the common to be applied must themselves be subject to scrutiny to ensure that they apply it. The most legitimate body to do this is the community as a whole.
 
-### Risques adressés par le rôle
+## Risks addressed by the role
 
-#### Non-respect du commun {#respect-regles}
+### Non-abiding by the common <a href="#respect-regles" id="respect-regles"></a>
 
-Si les différents acteurs définis dans cette section outrepassent leurs rôles ou inversement ne les remplissent pas correctement, seule la communauté peut (et doit) les remplacer.
+If the different stakeholders described in this section overstep their roles or conversely do not fulfill them properly, only the community can (and must) replace them.&#x20;
 
-C'est pourquoi tous les rôles doivent être tenus de manière transparente vis-à-vis des membres.
+Therefore, all roles must be held transparently for all members.
 
-#### Inutilité du service {#utilite}
+### Uselessness of the service <a href="#utilite" id="utilite"></a>
 
-En l'absence de communauté, le service numérique commun n'est qu'une coquille vide. La communauté et son implication sont la première mesure de la santé et de l'utilité des communs numériques.
+Without community, the digital commons is but an empty shell. The community and its involvement is the first measure of both health and usefulness of the digital commons.
 
-### Forme juridique
+## Legal Form
 
-La communauté est toujours à considérer comme une multitude [Colin &amp; Verdier, 2015], et non comme une personne morale ou une classe représentable par un sous-ensemble de ses membres.
+The community is always to be considered as a multitude \[Colin & Verdier, 2015], and not as a legal person or a class that can be represented by a subset of its members.

@@ -1,25 +1,25 @@
-## Contributeur
+# Contributor
 
-### Risques adressés par le rôle
+## Risks adressed by the role
 
-#### Stagnation opérationnelle {#stagnation}
+### Operational stagnation <a href="#stagnation" id="stagnation"></a>
 
-En l'absence de contributeurs, le service numérique commun n'évolue pas. Cela peut être approprié s'il continue à remplir son rôle vis-à-vis de sa [communauté](./1-communaute), mais peut poser un problème si plus personne en son sein n'est capable de mener les évolutions. Le risque est en effet de basculer vers un modèle propriétaire où un nombre restreint d'entités prennent la main sur les évolutions et en créent un marché.
+In the absence of contributors, the common digital service does not evolve. This may be appropriate if it continues to fulfill its role towards its [community](1-communaute.md), but it can be a problem if no one in the community is able to drive change. There is a risk of switching to a proprietary model where a small number of entities take control of developments and create a market for them.
 
-### Forme juridique
+## Legal Form
 
-Les contributeurs sont en premier lieu des [utilisateurs](./1-communaute).
+Contributors are primarily [users](1-communaute.md) of the service.
 
-Un contributeur ne peut être qu’une personne physique.
+A contributor can only be a natural person.&#x20;
 
-Une personne morale ne peut contribuer à des communs qu’indirectement, par l’affiliation de contributeurs individuels, par exemple ses salariés ; ou en étant [sponsor](./5-sponsor) de l'activité des contributeurs par un soutien financier, logistique, réputationnel…
+A legal entity can only contribute to the commons indirectly, through the affiliation of individual contributors, for example its employees; or by being a [sponsor](5-sponsor.md) of the contributors' activity through financial, logistical or reputational support...
 
-### Rétribution
+## Retribution
 
-Dans la plupart des cas, la première des rétributions pour les contributeurs consiste en leur bénéfice à l'utilisation du service numérique commun. Il n'est donc pas nécessaire de prévoir une rétribution spécifique.
+In most cases, the primary reward for contributors is their benefit from using the common digital service. There is therefore no need for a specific retribution.
 
-Néanmoins, si les contributions ne sont pas reconnues, la motivation des contributeurs peut diminuer. Dans le cas d'un commun contributif, cela peut aboutir à sa disparition. Pour pérenniser la communauté, les contributeurs doivent s'y sentir bienvenus en tant qu'utilisateurs, mais aussi reconnus, voire récompensés, en tant que contributeurs.
+However, if contributions are not properly acknowledged, the motivation of contributors may decrease. In the case of a contributory commons, this can lead to its disappearance. To perpetuate the community, contributors must feel welcome as users, but also acknowledged and even rewarded as contributors.
 
-Cela peut évidemment se faire par une rétribution financière, par exemple sous la forme d'indemnité, de salaire ou de contrat de prestation. Mais cette reconnaissance peut également provenir, de manière non exclusive, par de la réputation, par exemple en mettant en avant le nom de la personne ayant contribué, ou encore par des pouvoirs décisionnels étendus dans la limite du commun.
+This can of course be done through financial retribution, for instance in the form of compensation, salary or a service contract. But acknowledgement can also come through reputation, for example by putting the name of the contributor forward, or through extended decision-making powers within the boundaries of the commons.
 
-L'attribution de ces récompenses peut être faite de manière automatique, par exemple en mettant en avant les plus contributeurs les plus assidus comme le fait [Wikipédia](https://en.wikipedia.org/wiki/Wikipedia:List_of_Wikipedians_by_number_of_edits) ou comme le permet [GitHub](https://docs.github.com/en/github/visualizing-repository-data-with-graphs/accessing-basic-repository-data/viewing-a-projects-contributors).
+The attribution of these rewards can be done automatically, for example by highlighting the most assiduous contributors as [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:List\_of\_Wikipedians\_by\_number\_of\_edits) does or as [GitHub](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/viewing-a-projects-contributors) allows.
