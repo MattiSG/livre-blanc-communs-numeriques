@@ -1,31 +1,33 @@
-# Action publique
+# Public action
 
-Les communs sont à distinguer des biens publics, tant du point de vue économique que du point de vue de la propriété. Les biens publics sont en effet le plus souvent à considérer comme le bien privé de l’administration publique\[^1] \[Coriat, 2017]. De fait, sans règles établissant une gouvernance partagée avec ses usagers, des biens ou services ne peuvent être des communs. Pour autant, dans leur mission de défense de l’intérêt général, les acteurs publics sont fondés à avoir une politique des communs lorsque ceux-ci ont une utilité publique\[^2].
+Commons must be distinguished from public goods, from both economical and ownership standpoints. Public goods can indeed most often be considered as the private good of the public administration\[^1] \[Coriat, 2017]. Without rules that establish a shared governance with its users, goods or services cannot be commons. However, through their mission of defending general interest, public bodies are legitimate to have policies towards commons when these have public value\[^2].
 
 ## Contribution <a href="#contribution" id="contribution"></a>
 
-En premier lieu, les acteurs publics peuvent avoir un rôle d’investisseur qui soutient la création de ces communs. Cet investissement peut être financier, mais sera encore plus avantageusement d’expertise et de mise à disposition de ressources auparavant détenues en exclusivité. Par la mise en partage de ces ressources, l’acteur public devient un membre de la communauté plus qu’un simple mécène.
+First of all, public entities can have a role as investors who support the creation of commons. This investment can be financial, but can also take the form of expertise and of provisioning of resources that public actors hold exclusive access to. By sharing these resources, the public entity becomes a community member rather than a mere funder.
 
-## Garantie <a href="#garantie" id="garantie"></a>
+## Guarantee <a href="#garantie" id="garantie"></a>
 
-La puissance publique\[^3] peut être utilisée pour garantir l’application du commun déterminé par la communauté, notamment en ce qui concerne les règles édictant l’accès et la non-réappropriation\[^4] (_reenclosure_), et donc la préservation de leur statut.
+Public power\[^3] can be used to ensure the respect of  the common that the community decided to follow, in particular regarding rules towards access and non-reenclosure\[^4], thus preserving their statute.
 
-Les acteurs publics sont généralement considérés comme les garants des modèles de propriété alternatifs à la propriété privée, et semblent donc a priori fondés à garantir cette non-réappropriation. En particulier, la prévention d’un basculement en gestion privée peut relever de leurs attributions lorsqu’ils ont contribué aux communs et qu’ils sont de fait comptable des ressources publiques investies.
+Public actors are usually regarded as guardians of ownership models that differ from private property, and are thus likely to ensure this non-reenclosure. In aprticular, preventing a shift towards private ownership can be part of their legal attributions when they have contributed to the commons and thus hold responsibility towards the usage of the public resources that were invested.
 
-Néanmoins, il est important de noter que les communs sont une option différant tant de la gestion publique que de la gestion privée et qu’un acteur public, pas plus qu’aucun autre, n’est fondé à les gouverner seul.
+Nevertheless, it is important to keep in mint that commons differ from public management just like they differ from private managemnet, and that a public actor is not more legitimate than any other actor to govern them alone.
 
-## Non-systématicité <a href="#non-systematicite" id="non-systematicite"></a>
+## Non-systematicity <a href="#non-systematicite" id="non-systematicite"></a>
 
-De la même manière que tous les bâtiments publics n’ont pas vocation à être des bâtiments communs, tous les services publics numériques n’ont pas vocation à devenir des services numériques communs. Ce document n’a donc pas pour objectif de suggérer que les services publics numériques devraient tous se conformer à un commun\[^5].
+In the same way that not all public buildings are intended to be common buildings, not all digital public services are intended to become common digital services. Therefore, this paper is not intended to suggest that all digital public services should become commons\[^5].
 
-Inversement, il n’est pas nécessaire de réunir toutes les conditions énoncées dans ce document pour commencer à construire des services numériques communs. Comme nous l’avons vu, le commun étant un principe politique, les logiciels peuvent devenir des communs même après avoir été totalement construits.
+On the other hand, it is not necessary to meet all the criteria set out in this document to start building digital commons. As we have seen, since the common is a political principle, software can become a common even _after_ it has been fully built.
 
-\[^1]: « \[La qualification de bien public] ne s’applique que lorsque l’État ou ses dérivés se saisissent d’une ressource, en reconnaissent la destination collective, et en assurent la production et/ou l’entretien. Sa dynamique ne s’exerce pas, en conséquence, à l’égard de tous les éléments qui pourraient impliquer une préoccupation d’usage commun, de conservation ou de transmission. En outre, elle n’induit pas une « gouvernance » par les membres de la communauté mais en leur nom. » _in_ Le retour des communs, Coriat, Zimmerman _et al_, pp 204-205.
+———
 
-\[^2]: La définition légale de cet aspect n’existe pas (encore ?) pour les objets numériques. L’évaluation de cet aspect n’est donc pas normé. Par symétrie, notons que cela en ferait des éléments du [domaine public](https://fr.wikipedia.org/wiki/Domaine\_public\_en\_droit\_public\_fran%C3%A7ais) s’ils étaient matériels et administrés par la puissance publique.
+\[^1]: "\[The qualification as public good] applies only when the State or its subsidiaries seize a resource, acknowledge it as having a collective purpose, and ensure its production and/or maintenance. Therefore, its dynamic does not apply to all elements that could imply a concern for common use, conservation or transmission. Moreover, it does not imply 'governance' by the members of the community but on their behalf' in Le retour des communs, Coriat, Zimmerman et al, pp 204-205.
 
-\[^3]: La _puissance_ publique, et non l’action publique, c’est-à-dire notamment l'ensemble des moyens à disposition de l'administration et du gouvernement pour faire respecter les lois et règlements. Ainsi, la justice peut être saisie pour faire respecter une licence.
+\[^2]: The legal definition of this aspect does not exist (yet?) for digital objects. Thus, the evaluation of this aspect is not standardised. Note that, by symmetry, this would make them [public property](https://en.wikipedia.org/wiki/Public\_property) items if they were material and administered by the public power.
 
-\[^4]: La réappropriation consiste en la réintroduction d’exclusivité dans l’usage de ressources qui étaient des communs, c’est-à-dire d’en réserver l’exploitation — totale ou partielle — à un acteur spécifique.
+\[^3]: Public _power_, not public action, that is, all the means available to the administration and the government to enforce laws and regulations. Thus, justice can be called upon to enforce a licence.
 
-\[^5]: On notera en revanche que la loi pour une République Numérique édicte que les codes sources et données publiques sont soumis à un principe de mise à disposition par défaut.
+\[^4]: Reappropriation means reintroducing exclusivity in the use of resources that were commons, that is, restricting their exploitation - either in total or in part - to a specific actor.
+
+\[^5]: On the other hand, it should be noted that the law for a Digital Republic stipulates that source codes and public data are subject to a principle of open access by default.
