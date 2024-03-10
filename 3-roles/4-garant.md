@@ -2,11 +2,11 @@
 
 ## Risks addressed by the role
 
-### Non-  the commons <a href="#respect-regles" id="respect-regles"></a>
+### Non-abiding to  the commons <a href="#respect-regles" id="respect-regles"></a>
 
 We have described a set of legal mechanisms limiting re-appropriation (licence, general terms of use...). Who activates these mechanisms in case of suspected infringement? What are the procedures: formal notice, filing a complaint, etc.?
 
-**A role of  of the application of the commons must be held, with a clear list of sanctions to be applied in the event of non-compliance with the rules it describes.**
+**A role of guardian of the commons must be held, with a clear list of sanctions to be applied in the event of non-compliance with the rules it describes.**
 
 ### Discrimination of contributors <a href="#egalite" id="egalite"></a>
 
@@ -27,5 +27,5 @@ The ideal stakeholder will  profit, with the sole objective of guaranteeing the 
 It can, for example, take the form of:
 
 * Association.
-* &#x20;( association, …).
-*
+* Board (of an association, of a co-op…).
+* Public entity.
